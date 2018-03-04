@@ -22,8 +22,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-            >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -40,8 +39,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition. </p>
@@ -68,12 +66,12 @@
     </front>
     <body>
       <div xml:id="rfr-quaestio29">
-        <head>Liber IV, Quaestio 1</head>
-        <head type="question-title">Vtrum in sacramento altaris sit totus Christus sub speciebus
+        <head xml:id="rfr-quaestio29-Hd1e126">Liber IV, Quaestio 1</head>
+        <head xml:id="rfr-quaestio29-Hd1e129" type="question-title">Vtrum in sacramento altaris sit totus Christus sub speciebus
           vini et panis.</head>
-        <div type="rationes-principales">
-          <head>ET ARGUO QUOD NON</head>
-          <p>1. Quia ex quo modus consecrandi fuit institutus ante passionem Christi sic quod
+        <div xml:id="rfr-quaestio29-Dd1e132" type="rationes-principales">
+          <head xml:id="rfr-quaestio29-Hd1e134">ET ARGUO QUOD NON</head>
+          <p xml:id="rfr-quaestio29-d1e137">1. Quia ex quo modus consecrandi fuit institutus ante passionem Christi sic quod
             tempore passionis Christi in monte Calvarie aliquis apostolorum consecrasset in templo
             in Ierusalem, quo facto, arguitur sic: si Christus totus fuit sub speciebus panis et
             uini in templo, ergo passio Christi et eius mors tunc fuit ibi, quia illa passio fuit
@@ -91,12 +89,12 @@
               <rdg wit="#O" type="variation-absent"/>
             </app> 
             Christi tempore passionis fuit in templo; quod falsum est.</p>
-          <p>2. Preterea, retento casu priori, scilicet quod tempore passionis aliquis apostolorum
+          <p xml:id="rfr-quaestio29-d1e157">2. Preterea, retento casu priori, scilicet quod tempore passionis aliquis apostolorum
             consecrasset in templo, sequitur, si totus Christus sit in sacramento altaris, quod
             Christus tunc fuit in templo; ergo quicquid fuit in Christo, tunc illud [O. f. 110ra]
             fuit in templo; set acetum quod Christus bibit et claui suarum manuum tunc fuerunt in
             Christo, ergo acetum et claui tunc fuerunt in celo; quod falsum est.</p>
-          <p>3. Preterea, retento priori casu, sequitur quod Christus tempore passionis fuit in
+          <p xml:id="rfr-quaestio29-d1e160">3. Preterea, retento priori casu, sequitur quod Christus tempore passionis fuit in
             templo sub speciebus panis et vini, et per consequens sua passio fuit 
             <app>
               <lem>tunc</lem>
@@ -114,16 +112,16 @@
             fuerunt in templo, uel quod aliquod agens egit in distans ab illo et non prius in
             medium, quod est inpossibile, quia nec Deus potest sic agere.
           </p>
-          <p>
+          <p xml:id="rfr-quaestio29-d1e181">
             4. Preterea, retento casu priori, scilicet quod aliquis apostolorum consecrasset in
             templo in instanti mortis Christi in cruce, tunc illud pronomen <mentioned>meum</mentioned> cum apostolus
-            ille dixit consecrando <quote>hoc est corpus meum</quote> aut significabat Christum aut illum
+            ille dixit consecrando <quote xml:id="rfr-quaestio29-Qd1e186">hoc est corpus meum</quote> aut significabat Christum aut illum
             consecrantem; non illum consecrantem, quia tunc ipse dixisset <mentioned>hoc est corpus meum</mentioned> quia
             sarcerdos numquam dicit illa verba nisi in persona Christi; nec illud pronomen tunc
             significabat Christum, quia similiter tunc ille consecrans dixisset falsum tunc, quia
             illud corpus tunc non fuit corpus Christi, quia Christus tunc non fuit homo, cum anima
             fuerit separata a corpore; ergo tunc nec habuit animam [V. f. 171vb] nec corpus.</p>
-          <p>5. Preterea, supposito quod totus sanguis qui effusus erat in cruce, fuisset collectus
+          <p xml:id="rfr-quaestio29-d1e194">5. Preterea, supposito quod totus sanguis qui effusus erat in cruce, fuisset collectus
             et positus in aliqua ecclesia usque ad finalem iudicium; istud enim, etsi non sit uerum,
             est tamen possible; quo supposito, non minus [P. f. 187rb] adhuc cotidie possent
             sacerdotes consecrare; ergo <supplied>aut</supplied> conficerent de uino illum sanguinem
@@ -142,19 +140,19 @@
               <rdg wit="#O">infundendum</rdg>
             </app> 
             in
-            cruce, sicud patet per verba consecrata que tunc Christus dixit <quote>hic est sanguis, et
+            cruce, sicud patet per verba consecrata que tunc Christus dixit <quote xml:id="rfr-quaestio29-Qd1e217">hic est sanguis, et
             cetera, qui pro multis effundetur</quote>, sequitur quod sacerdotes illum sanguinem effusum
             nunc conficerent, posito predicto casu, scilicet quod ille sanguis fuisset conservatus
             in aliqua ecclesia usque ad finalem iudicium. Consequens inpossibile, quia tunc in
             sacramento altaris nunc esset aliquod corpus quod nec esset Christus nec pars Christi
             scilicet ille sanguis qui nunc non esset pars Christi; manifestum est, si esset predicto
             modo conseruatus.</p>
-          <p>6. Preterea, si totus Christus esset in sacramento, ergo possent partes Christi esse
+          <p xml:id="rfr-quaestio29-d1e221">6. Preterea, si totus Christus esset in sacramento, ergo possent partes Christi esse
             ubique in toto mundo, uel saltem non essent maximus locus in quo possent esse; ergo
             anima Christi et corpus eius et quecunque pars Christi sunt incircumscriptibiles.
             Consequens inpossibile, cum solus Deus sit incircumscriptibilis, sicud dicunt omnes
             doctors.</p>
-          <p>7. Preterea, si totus Christus esset in sacramento altaris sub speciebus panis et uini,
+          <p xml:id="rfr-quaestio29-d1e224">7. Preterea, si totus Christus esset in sacramento altaris sub speciebus panis et uini,
             aut ergo tunc est ibi alia substancia aut non; si sit ibi tunc aliqua substancia, aut
             ergo substancia panis aut alia; non substancia panis, quia illa transubstantiatur in
             corpus Christi, sicud tenet fides ecclesie; nec alia substancia nisi esset substancia
@@ -166,12 +164,12 @@
             et aeris penetrarent se; quod
             est inpossibile. Si non sit in sacramento alia substancia a Christo et eius partibus, ‒
             contra: ibi manet principium motus descensus; ergo ibi manet forma elementaris, cum illa
-            sit principium motus elementi inmediatum, sicud dicit <ref>Commentator, tercio De celo, comm.
+            sit principium motus elementi inmediatum, sicud dicit <ref xml:id="rfr-quaestio29-Rd1e235">Commentator, tercio De celo, comm.
             28</ref>. 
             Assertum patet ad sensum, quia videmus ad sensum quod hostia consecrata
             descendit.</p>
           <!-- left off with app entries, next one is no. 8 -->
-          <p>8. Preterea, si totus Christus sit sub speciebus sacramenti, aut ergo mouetur corpus
+          <p xml:id="rfr-quaestio29-d1e241">8. Preterea, si totus Christus sit sub speciebus sacramenti, aut ergo mouetur corpus
             Christi quando hostia consecrata defertur localiter a sacerdote, aut non. Si sic, ergo
             corpus Christi simul mouetur motibus contrariis, et simul accedit ad aliquem locum et
             recedit ab illo; quod non uidetur intelligibile. Si dicatur quod Christus non mouetur
@@ -179,19 +177,19 @@
             sacerdos deffert hostiam consecratam ad aliquem infirmum, tunc corpus Christi continue
             magis appropinquat illi infirmo et magis; ergo sequitur necessario quod corpus Christi
             tunc mutatur localiter.</p>
-          <p>9. Preterea, si totus Christus sit in sacramento altaris, cum sub speciebus panis non
+          <p xml:id="rfr-quaestio29-d1e244">9. Preterea, si totus Christus sit in sacramento altaris, cum sub speciebus panis non
             sit alia substancia, sequitur quod accidencia panis ibi sint sine subiecto. Consequens
             inpossibile et includens contradictoria cum diffinitio accidentis sit <mentioned>inesse alteri</mentioned>;
             et eciam hoc [V. f. 172ra] inportatur per hoc nomen <mentioned>accidens</mentioned>; ergo si sint sine
             subiecto, sequitur [P. f. 187va] quod non sint accidencia set substancie, quia per se
             subsistunt, sicud angeli; ergo species [O. f. 110ra] panis in sacramento sunt substancie
             abstracte; quod falsum est.</p>
-          <p>10. Preterea, si Christus sit sub speciebus sacramenti, tunc hoc est quia per uerba
+          <p xml:id="rfr-quaestio29-d1e254">10. Preterea, si Christus sit sub speciebus sacramenti, tunc hoc est quia per uerba
             sacerdotis conficitur corpus Christi ex pane, et sanguis ex uino; aut ergo potest illa
             consecracio fieri ex solo pane azimo aut ex fermentato; non ex solo azimo, quia
             aliquando ecclesia romana utebatur indifferenter fermentato et azimo , adhuc ecclesia
             Grecorum utitur fermentato solo propter illam primam consuetudinem, [W. f. 130r] sicud
-            dicit <ref>Thomas, 4 libro, dist. 11</ref>. Set ecclesia Grecorum repentatur fidelis; ergo corpus
+            dicit <ref xml:id="rfr-quaestio29-Rd1e256">Thomas, 4 libro, dist. 11</ref>. Set ecclesia Grecorum repentatur fidelis; ergo corpus
             Christi potest confici legitime de fermentato. Nec uidetur dicendum quod corpus Christi
             potest confici de fermentato , quia pari racione potest sanguis Christi confici de
             aceto, uel de uino non puro set mixto; cuius oppositum tenet ecclesia. Et similter pari
@@ -201,18 +199,18 @@
             posteriores poterunt mutare modum quoad panem, pari racione poterunt mutare modum
             consecracionis de vino, et possent consecrare de uino albo uel de aceto, et de pane
             ordeacio uel alio; quod falsum est.</p>
-          <p>11. Preterea, si Christus sit sub speciebus sacramenti panis et uini tunc per uerba
+          <p xml:id="rfr-quaestio29-d1e260">11. Preterea, si Christus sit sub speciebus sacramenti panis et uini tunc per uerba
             sacerdotis uinum conuerteretur in sanguinem Christi; et si hoc, tunc illa conuersio
             fieret per certa uerba, sicud conuersio panis fit per certa uerba, ita quod per alia
-            fieri non potest. Set consequens est falsum, quia <ref>Luce 22</ref> dicitur quod Christus in
-            consecrando dixit <quote>hic est calix noui testamenti in meo sanguine</quote>; ergo per ista uerba
+            fieri non potest. Set consequens est falsum, quia <ref xml:id="rfr-quaestio29-Rd1e262">Luce 22</ref> dicitur quod Christus in
+            consecrando dixit <quote xml:id="rfr-quaestio29-Qd1e265">hic est calix noui testamenti in meo sanguine</quote>; ergo per ista uerba
             potest esse consecracio; et ecclesia utitur in consecrando hiis uerbis <mentioned>hic est sanguis
-            meus</mentioned>; et per illa uerba precise fit conuersio sicud dicit <ref>Augustinus in libro De
-            sacramentis, omelia quarta</ref>, et habetur <ref>De consecracione, dist. secunda</ref>, et allegat illud
-            dictum <ref>Magister, 4 libro, dist. 8, cap. 6</ref> : <quote>omnia autem reliqua non sunt nisi laudes et
+            meus</mentioned>; et per illa uerba precise fit conuersio sicud dicit <ref xml:id="rfr-quaestio29-Rd1e271">Augustinus in libro De
+            sacramentis, omelia quarta</ref>, et habetur <ref xml:id="rfr-quaestio29-Rd1e274">De consecracione, dist. secunda</ref>, et allegat illud
+            dictum <ref xml:id="rfr-quaestio29-Rd1e278">Magister, 4 libro, dist. 8, cap. 6</ref> : <quote xml:id="rfr-quaestio29-Qd1e281">omnia autem reliqua non sunt nisi laudes et
             oraciones</quote>, sicud dicitur ibi; ergo uidetur quod non sit aliqua certa forma consecrandi
             uinum.</p>
-          <p>12. Preterea, si Christus totus esset sub speciebus, tunc hoc esset per uerba
+          <p xml:id="rfr-quaestio29-d1e285">12. Preterea, si Christus totus esset sub speciebus, tunc hoc esset per uerba
             sacerdotis dicentis <mentioned>hoc est corpus meum</mentioned>; consequens est falsum, quia tunc corpus
             Christi non esset ibi ante conpletam prolacionem uerborum; set hoc est falsum, ut
             uidetur, quia quando Christus confecit in cena sua, corpus suum fuit sub speciebus
@@ -221,70 +219,70 @@
             eius fuit sub speciebus panis; set antequam protul<supplied>er</supplied>it Christus
             illa uerba, panis fuit sanctificatus et benedictus, sicud uidetur ex processu omnium
             euangelistarum. Dicunt enim quod Christus accepit [P. f. 187vb] panem et benedixit ac
-            fregit dicens <quote>accipite et comedite, hoc est enim corpus meum</quote>; ergo planum uidetur quod
-            prius fuit panis benedictus [V. f. 172rb] quam ipse dixit <quote>hoc est corpus meum</quote>; ergo
+            fregit dicens <quote xml:id="rfr-quaestio29-Qd1e296">accipite et comedite, hoc est enim corpus meum</quote>; ergo planum uidetur quod
+            prius fuit panis benedictus [V. f. 172rb] quam ipse dixit <quote xml:id="rfr-quaestio29-Qd1e299">hoc est corpus meum</quote>; ergo
             per ista uerba sequencia non fuit facta conuersio.</p>
-          <p>13. Preterea, si Christus sit sub speciebus sacramenti, tunc hoc est per uerba
+          <p xml:id="rfr-quaestio29-d1e303">13. Preterea, si Christus sit sub speciebus sacramenti, tunc hoc est per uerba
             sacerdotis; posito ergo quod sacerdos sit excommunicatus uel hereticus, aut potest
-            conficere, aut non. Si dicatur quod sic, contra: <ref>Magister, libro 4, dist. 13, c. 2</ref>,
+            conficere, aut non. Si dicatur quod sic, contra: <ref xml:id="rfr-quaestio29-Rd1e305">Magister, libro 4, dist. 13, c. 2</ref>,
             dicit expresse quod illi qui sunt excommunicati vel heretici manifeste uocati non
             uidentur hoc sacramentum posse conficere. Et confirmat Magister hoc quod sacerdos in
             offerendo non dixit <mentioned>offero</mentioned>, set <mentioned>offerimus</mentioned> in persona eccelsie et ideo cum sit intra
             ecclesiam; excommunicatus uel hereticus neuter conficere potest. Et si dicatur quod hoc
             est verum, contra: hereticus potest baptizare et conferre graciam, ergo pari racione
-            potest conferre corpus Christi. Assertum patet per <ref>Augustinum in De ecclesiasticis
+            potest conferre corpus Christi. Assertum patet per <ref xml:id="rfr-quaestio29-Rd1e314">Augustinum in De ecclesiasticis
             dogmatibus, cap. 14</ref>, ubi dicitur quod baptizati ab hereticis non illi debent iterum
             baptizari, quia per inuocacionem sancte Trinitatis baptizantur, ne
             <supplied>in</supplied>uocacio sancte Trinitatis adnulletur. Hec Augustinus. Ergo pari
             racione hostia consecrata ab heretico non debet iterum consecrari, ne inuocatio
-            Trinitatis annulletur. Similiter, <ref>Magister dicit, distinccione 13, capitulo 3</ref>, quod
+            Trinitatis annulletur. Similiter, <ref xml:id="rfr-quaestio29-Rd1e321">Magister dicit, distinccione 13, capitulo 3</ref>, quod
             aliquis non recte senciens de sacramento eukaristie, si ipse intendat facere sicud
             ecclesia facit, ipse conficit; set quilibet non recte sentiens de illo sacramento est
             hereticus; ergo hereticus potest consecrare.</p>
-          <p>AD OPPOSITUM arguitur per <ref>Magistrum, libro 4, dist. 10</ref>, hic ubi ex intencione probat
+          <p xml:id="rfr-quaestio29-d1e325">AD OPPOSITUM arguitur per <ref xml:id="rfr-quaestio29-Rd1e327">Magistrum, libro 4, dist. 10</ref>, hic ubi ex intencione probat
             illos esse hereticos qui ponunt Christum integrum non esse in altari. Et adducit
             auctoritates sanctorum Augustini et Ambrosii et Eusebii ad probandum uerum corpus
             Christi esse in altari sub speciebus panis et uini. Et concludit in fine quod totus est
             sub specie panis et eciam sub specie uini in sacramento altaris.</p>
         </div>
-        <div>
-          <head>DECISIO QUESTIONIS.</head>
-          <p>In ista questione sic procedam: primo tractabo utrum accidencia [O. f. 110va] in
+        <div xml:id="rfr-quaestio29-Dd1e332">
+          <head xml:id="rfr-quaestio29-Hd1e334">DECISIO QUESTIONIS.</head>
+          <p xml:id="rfr-quaestio29-d1e337">In ista questione sic procedam: primo tractabo utrum accidencia [O. f. 110va] in
             sacramento altaris sint ibi sine subiecto, et recitabo opiniones doctorum circa hoc; et
             postea dicam ad questionem.</p>
-          <div type="articulus">
-            <head>Primus articulus: Vtrum accidencia in sacramento altaris sint ibi sine
+          <div xml:id="rfr-quaestio29-Dd1e340" type="articulus">
+            <head xml:id="rfr-quaestio29-Hd1e342">Primus articulus: Vtrum accidencia in sacramento altaris sint ibi sine
               subiecto.</head>
-            <div type="rationes-principales">
-              <head>ET ARGUITUR QUOD NON</head>
-              <p>1. Primo quia ibi remanet forma elementaris ergo accidencia remanencia sunt
+            <div xml:id="rfr-quaestio29-Dd1e345" type="rationes-principales">
+              <head xml:id="rfr-quaestio29-Hd1e347">ET ARGUITUR QUOD NON</head>
+              <p xml:id="rfr-quaestio29-d1e350">1. Primo quia ibi remanet forma elementaris ergo accidencia remanencia sunt
                 subiectiue in illa. Assertum probatur, quia ibi remanet grauitas per quam hostia
                 consecrata naturaliter descendit, sicud patet ad sensum; set grauitas est forma
                 substancialis elementi, sicud patet quarto De celo et tertio; ergo in sacramento
-                accidencia habent subiectum. Et hoc dicit <ref>Magister, dist. 11, in principio</ref>, scilicet
-                quod ibi manet pondus; idem dicitur in <ref>glossa prima Ad Corinthos 11 super illo</ref> [P.
-                f. 188ra] <quote>quociens sumetis in meam commemoracionem</quote>.</p>
-              <p>2. Preterea, in hostia consecrata sunt accidencia actiua et passiua naturaliter
-                sicud patet ad sensum; ergo ibi est materia. Consequencia patet per <ref>Philosophum,
-                primo De generacione</ref> et <ref>tertio Phisicorum</ref>, ubi dicit quod agens et passum necessario
+                accidencia habent subiectum. Et hoc dicit <ref xml:id="rfr-quaestio29-Rd1e352">Magister, dist. 11, in principio</ref>, scilicet
+                quod ibi manet pondus; idem dicitur in <ref xml:id="rfr-quaestio29-Rd1e355">glossa prima Ad Corinthos 11 super illo</ref> [P.
+                f. 188ra] <quote xml:id="rfr-quaestio29-Qd1e358">quociens sumetis in meam commemoracionem</quote>.</p>
+              <p xml:id="rfr-quaestio29-d1e362">2. Preterea, in hostia consecrata sunt accidencia actiua et passiua naturaliter
+                sicud patet ad sensum; ergo ibi est materia. Consequencia patet per <ref xml:id="rfr-quaestio29-Rd1e364">Philosophum,
+                primo De generacione</ref> et <ref xml:id="rfr-quaestio29-Rd1e367">tertio Phisicorum</ref>, ubi dicit quod agens et passum necessario
                 communicant in materia.</p>
-              <p>3. Preterea, <ref>primo De generacione, dicit Philosophus</ref> quod si calor esset extra
+              <p xml:id="rfr-quaestio29-d1e371">3. Preterea, <ref xml:id="rfr-quaestio29-Rd1e373">primo De generacione, dicit Philosophus</ref> quod si calor esset extra
                 materiam ageret set non pateretur; ergo cum <supplied>in</supplied> hostia
                 consecrata caliditas et alia accidencia patiantur [V. f. 172va], sequitur quod illa
                 accidencia sunt in materia et in subiecto, et per consequens accidencia sacramenti
                 non sunt sine subiecto.</p>
-              <p>4. Preterea, ex hostia consecrata potest per putrefaccionem generari aliquod
+              <p xml:id="rfr-quaestio29-d1e380">4. Preterea, ex hostia consecrata potest per putrefaccionem generari aliquod
                 conpositum naturale sicud vermis; ergo in hostia est aliqua materia prima, saltem
                 que potest remanere in generato; et per consequens accidencia sacramenti sunt in
                 illa materia.</p>
-              <p>5. Preterea, ponatur quod ignis agat in aliquam hostiam consecratam, et sic ille
+              <p xml:id="rfr-quaestio29-d1e384">5. Preterea, ponatur quod ignis agat in aliquam hostiam consecratam, et sic ille
                 ignis purus undique circumstans hostie; tunc ignis causabit calorem in situ illius
                 hostie, - manifestum est -, et similiter suam formam; ergo ille forme causate
                 recipientur tunc in aliqua materia, quia aliter agens materiale posset generare
                 formam abstractam, quod est inpossible. Ergo in situ hostie est aliqua materia
                 recipiens accionem agentis, et per consequens accidencia sacramenti sunt in aliqua
                 materia.</p>
-              <p>6. Preterea, hostia recepta ab uno communicato tandem digeritur et non semper manet
+              <p xml:id="rfr-quaestio29-d1e387">6. Preterea, hostia recepta ab uno communicato tandem digeritur et non semper manet
                 in illo remanente. Accepto ergo in primo instanti in quo hostia est corrupta, tunc
                 in illo instanti est aliquod corpus naturale in loco illo in quo hostia prius fuit,
                 quia ibi in illo instanti non est aliquod sacramentum; ergo tunc in illo situ est
@@ -301,32 +299,32 @@
                 illius unum corpus naturale ex materia preexistente in illo situ et non ex materia
                 Christi; ergo ibi est alia materia cum materia Christi; et per consequens accidencia
                 sunt in illa materia.</p>
-              <p>7. Preterea, homo potest nutriri ex hostiis consecratis sicud multi sunt experti,
+              <p xml:id="rfr-quaestio29-d1e393">7. Preterea, homo potest nutriri ex hostiis consecratis sicud multi sunt experti,
                 ergo hostia potest conuerti in materia membri animalis. Et per consequens in hostia
                 consecrata est aliqua materia; [P. f. 188rb] aliter enim per hostias consecratas
                 <supplied>non</supplied> posset aliquod deperditum de corpore animali
                 restaurari.</p>
-              <p>8. Preterea, hostia consecrata, sicud patet ad sensum, frangitur ab agente
+              <p xml:id="rfr-quaestio29-d1e399">8. Preterea, hostia consecrata, sicud patet ad sensum, frangitur ab agente
                 naturali, et condensatur, et incuruuatur, et calefiat, ergo est ibi aliqua materia;
                 vel si non sit ibi materia, sequitur quod in accione naturali primum subiectum
                 accionis sit forma accidentalis et per consequens illa forma est vere substancia,
                 quia est vere substancia accidentibus contrariis successive quod propositum est
                 substancie, sicud patet in Predicamentis, capitulo de substancia.</p>
-              <p>9. Preterea, hostia consecrata potest rarefieri per agens naturale sicud patet ad
+              <p xml:id="rfr-quaestio29-d1e402">9. Preterea, hostia consecrata potest rarefieri per agens naturale sicud patet ad
                 sensum; set raritas et densitas diffiniuntur per hoc quod densum habet multam
                 materiam, et rarum modicam; ergo ubicunque potest esse magis rerum et minus, ibi est
                 materiam.</p>
-              <p>OPPOSITUM [V. f. 172vb] tenet fides ecclesie, sicut patet in legenda novi
-                testamenti de hoc sacramento. Et <ref>Magister declarat dist. 12, quarti libri</ref>, quod
+              <p xml:id="rfr-quaestio29-d1e405">OPPOSITUM [V. f. 172vb] tenet fides ecclesie, sicut patet in legenda novi
+                testamenti de hoc sacramento. Et <ref xml:id="rfr-quaestio29-Rd1e407">Magister declarat dist. 12, quarti libri</ref>, quod
                 accidencia panis et uini, scilicet sapor, pondus, et odor et alia accidencia, sunt
                 sine subiecto quia non sunt in corpore Christi; nec est ibi aliud subiectum; et ideo
                 non sunt in alico subiecto.</p>
             </div>
-            <div>
-              <head>Opiniones Doctorum</head>
-              <div>
-                <head><supplied>OPINIO HENRICI</supplied></head>
-                <p><ref>Doctor Solempnis, 8 Quodlibet, q. 36</ref>, tenet quod accidencia sacramenti omnia
+            <div xml:id="rfr-quaestio29-Dd1e412">
+              <head xml:id="rfr-quaestio29-Hd1e414">Opiniones Doctorum</head>
+              <div xml:id="rfr-quaestio29-Dd1e417">
+                <head xml:id="rfr-quaestio29-Hd1e419"><supplied>OPINIO HENRICI</supplied></head>
+                <p xml:id="rfr-quaestio29-d1e423"><ref xml:id="rfr-quaestio29-Rd1e424">Doctor Solempnis, 8 Quodlibet, q. 36</ref>, tenet quod accidencia sacramenti omnia
                   habent eandem potenciam agendi et paciendi respectu cuiuslibet, sicud si essent in
                   materia, et hoc per miraculum. Quo miraculo, dicit ipse, presupposito, non oportet
                   postea ponere aliud miraculum novum ad hoc quod illa accidencia nutriant, nec ad
@@ -344,22 +342,22 @@
                   fit uermis conpositum uere unum ex forma substanciali et materia que prefuit sub
                   forma cibi habens sua accidencia propria, ita, dicit ipse, ut ponatur hoc totum
                   fieri uirtute nature, primo miraculo presuppostio.</p>
-                <p>Hoc enim melius est quam ascribere hoc nouo miraculo totaliter, aut partim nature
+                <p xml:id="rfr-quaestio29-d1e431">Hoc enim melius est quam ascribere hoc nouo miraculo totaliter, aut partim nature
                   et partim miraculo, quia Deus sic administrat res, dicit ipse, ut dicit Augustinus
                   quod sinit eas habere motus proprius. Hoc est primus modus.</p>
-                <p>Secundus modus, dicit ipse, est magis congruus; et est quod illa accidencia non
+                <p xml:id="rfr-quaestio29-d1e434">Secundus modus, dicit ipse, est magis congruus; et est quod illa accidencia non
                   solum fuerunt [P. f. 188va] in potencia ad formas substanciales, set eciam ad
                   conpositum, scilicet ad hoc quod materia producatur ex eis sicud forma illa, ita
                   quod non erit aliquod miraculum neque noua creacio. Nec est hic alia difficultas
                   nisi quod ponitur quod substancia materie ita reciperet nouum esse in conposito
                   sicud substancia forme, quod non contingit in aliis generacionibus naturalibus.
-                  Hec iste doctor sub conpendio,<ref> 8 Quodlibet, q. 36</ref>.</p>
-                <p>Quantum ad dimensiones dicit quod dimensiones aduenientes augmentant dimensiones
+                  Hec iste doctor sub conpendio,<ref xml:id="rfr-quaestio29-Rd1e436"> 8 Quodlibet, q. 36</ref>.</p>
+                <p xml:id="rfr-quaestio29-d1e440">Quantum ad dimensiones dicit quod dimensiones aduenientes augmentant dimensiones
                   sacramenti sicud augmentassent si materie alicuius conpositi unite fuissent. Hec
                   in brevi.</p>
-                <div>
-                  <head>CONTRA PRIMUM MODUM:</head>
-                  <p>1. Cum materia cibi corrupti substernitur formis sacramenti, et forme
+                <div xml:id="rfr-quaestio29-Dd1e444">
+                  <head xml:id="rfr-quaestio29-Hd1e446">CONTRA PRIMUM MODUM:</head>
+                  <p xml:id="rfr-quaestio29-d1e449">1. Cum materia cibi corrupti substernitur formis sacramenti, et forme
                     substanciali in illis, hoc fit per miraculum necessario. Probo: quia si illa
                     accidencia existant naturaliter in illa materia postquam erant per se, hoc fit
                     per miraculum, non naturaliter, quia tunc illa materia esset prius in potencia
@@ -368,7 +366,7 @@
                     naturali respectu eiusdem forme; quod est inpossibile, quia tunc duo agencia
                     naturalia possent simul illam de duabus materiebus extrahere qua racione unum
                     [V. f. 173ra] posset de una extrahere; quod est inpossibile.</p>
-                  <p>2. Preterea, si dimensiones sacramenti et dimensiones cibi inmediate ante
+                  <p xml:id="rfr-quaestio29-d1e452">2. Preterea, si dimensiones sacramenti et dimensiones cibi inmediate ante
                     corrupcionem forme cibi erant iuxtaposite tantum, non simul,
                     <supplied>tum</supplied> quia dimensiones non poterant se mutuo penetrare, tum
                     quia tunc simul cum corpore Christi fuisset alia substancia, quod fides
@@ -378,7 +376,7 @@
                     ipse negat. Et per consequens in isto instanti materia cibi iuxtaponitur solum
                     accidentibus sacramenti; ergo accidencia sacramenti non sunt in isto instanti in
                     illa materia sine miraculo.</p>
-                  <p>3. Preterea, hoc quod dicit quod dimensiones sacramenti sic augent cibi sicud
+                  <p xml:id="rfr-quaestio29-d1e458">3. Preterea, hoc quod dicit quod dimensiones sacramenti sic augent cibi sicud
                     si dimensiones sacramenti essent in materia, claudit contradiccionem, ut michi
                     uidetur, quia si essent in materia non augerentur nisi secundum iuxtaposicionem
                     et continuacionem, non secundum penetracionem; ergo nunc sic augent; ergo nunc
@@ -387,47 +385,47 @@
                     instanti materia cibi non est substracta, ut ipse loquitur, accidentibus et
                     dimensionibus sacramenti, set iuxtaposita tantum; et ita erit semper postea,
                     nisi dimensiones se penetrant mutuo.</p>
-                  <p>4. Preterea, secundum ipsum omuis generatus est animal uiuum; uiuum aut ergo
+                  <p xml:id="rfr-quaestio29-d1e461">4. Preterea, secundum ipsum omuis generatus est animal uiuum; uiuum aut ergo
                     est simplex aut conpositum, non simplex, ut ipse dicit, tunc non esset animal,
                     quia non [P. f. 188vb] posset moueri localiter ex se, nisi mouens in eo esset
                     motum. Si sit animal conpositum, ergo accidens est pars substancie.</p>
-                  <p>5. Preterea, si potest generari sic uermis, ut ipse ponit, antequam cibum
+                  <p xml:id="rfr-quaestio29-d1e465">5. Preterea, si potest generari sic uermis, ut ipse ponit, antequam cibum
                     recipiat tunc cum ille uermis moueatur localiter ex se, sicud patet ad sensum ,
                     queritur quid moueatur ab eius forma primo aut seipsa, quod esse non potest
-                    secundum <ref>Philosophum, 8 Phisicorum</ref>; aut aliquod accidens quod similiter esse non
+                    secundum <ref xml:id="rfr-quaestio29-Rd1e467">Philosophum, 8 Phisicorum</ref>; aut aliquod accidens quod similiter esse non
                     potest, scilicet quod forma substancialis naturali motu primo moueat aliquod
                     accidens, nisi illud accidens esset subiectum primum naturale istius forme, et
                     tunc nunquam posset habere aliud subiectum; quod ipse negat.</p>
-                  <p>[W. F. 131r] 6. Preterea, <ref>5 Quodlibet, q. 14</ref> <quote>Vtrum homo possit esse sine
+                  <p xml:id="rfr-quaestio29-d1e471">[W. F. 131r] 6. Preterea, <ref xml:id="rfr-quaestio29-Rd1e473">5 Quodlibet, q. 14</ref> <quote xml:id="rfr-quaestio29-Qd1e476">Vtrum homo possit esse sine
                     quantitate</quote>, dicit quod non, quia partes quantitatiue, sicud caro et os, sunt
                     necessaria de sua essencia; ymmo dicit quod inpossibile est intelligere hominem
                     sine carnibus et ossibus; ergo nec uermis ille potest esse sola forma cum
                     accidentibus sacramenti, ut dicit.</p>
-                  <p>7. Preterea, tunc natura esset necessitas ponendi materiam, ymmo frustra
+                  <p xml:id="rfr-quaestio29-d1e480">7. Preterea, tunc natura esset necessitas ponendi materiam, ymmo frustra
                     poneretur, ex quo quantitas ita sufficit ad sustentandum formas naturales sicud
                     materia.</p>
-                  <p>8. Preterea, sequitur quod quantitas et cetera accidencia sint substancie, quia
+                  <p xml:id="rfr-quaestio29-d1e483">8. Preterea, sequitur quod quantitas et cetera accidencia sint substancie, quia
                     subsunt accidentibus sicud sufficiens [O. f. 112ra] subiectum; ergo, cum hoc sit
                     proprium substancie, ut patet in Predicamentis sequitur quod sunt uere
                     substancie et non amplius accidencia.</p>
-                  <p>9. Preterea, quando illa accidencia sic sunt in materia cibi, queritur quid sic
+                  <p xml:id="rfr-quaestio29-d1e486">9. Preterea, quando illa accidencia sic sunt in materia cibi, queritur quid sic
                     allegat ea in subiecto, et eciam formam substancialem, ex quo prius erant
                     subsistentes per se; et non potest dici quod aliquid intrinsecum uel extrinsecum
                     nisi Deus; et ita oportet ponere nouum miraculum.</p>
                 </div>
-                <div>
-                  <head>CONTRA SECUNDUM MODUM:</head>
-                  <p>Quantum ad secundum modum ponendi, scilicet quod ex illis speciebus potest
+                <div xml:id="rfr-quaestio29-Dd1e490">
+                  <head xml:id="rfr-quaestio29-Hd1e492">CONTRA SECUNDUM MODUM:</head>
+                  <p xml:id="rfr-quaestio29-d1e495">Quantum ad secundum modum ponendi, scilicet quod ex illis speciebus potest
                     generari non solum forma substancialis, set <supplied>eciam</supplied> materia
                     per generacionem naturalem, non uidetur michi rationabile; hoc tamen est
                     probabilius michi quam primum dictum, et hoc ipse fatetur.</p>
-                  <p>PROBO</p>
-                  <p>1. Quia tunc materia illa generata ex illis speciebus tanquam ex materia, uel
+                  <p xml:id="rfr-quaestio29-d1e501">PROBO</p>
+                  <p xml:id="rfr-quaestio29-d1e504">1. Quia tunc materia illa generata ex illis speciebus tanquam ex materia, uel
                     aliter crearetur; et ita agens naturale crearet; et per consequens materia
                     generata reciperetur in dimensionibus sicud in subiecto; et ita materia generata
                     esset forma substancialis, et species sicud prius essent materie prime in toto
                     illo conpositio; quod est inpossibile.</p>
-                  <p>2. Preterea, si illa materia generaretur ex illis speciebus et dimensionibus,
+                  <p xml:id="rfr-quaestio29-d1e507">2. Preterea, si illa materia generaretur ex illis speciebus et dimensionibus,
                     cum omnia illa postea sint naturaliter in alia materia, sicut ipse ponit, et per
                     consequens dependent in esse ab illa, sequitur quod in instanti generacionis
                     materie, materia sit causa materialis illorum accidencium, tanquam subiectum a
@@ -435,7 +433,7 @@
                     materia materie generate , quia aliter materia tunc non generaretur ex
                     <supplied>non</supplied> alico, et per consequens crearetur; que omnia sunt
                     inpossibilia.</p>
-                  <p>3. Preterea, si materia ibi generaretur, ergo illa generetur cum quantitate; et
+                  <p xml:id="rfr-quaestio29-d1e514">3. Preterea, si materia ibi generaretur, ergo illa generetur cum quantitate; et
                     ita sunt due quantitates simul, quod esse non potest secundum Philosophum,
                     capitulo de vacuo, nisi ponatur quod quantitas sacramenti est quantitas materie
                     generate quod esse non potest quia tunc in instanti generacionis illa quantitas
@@ -444,9 +442,9 @@
                     contra Thomam, sunt contra ipsum. [P. f. 189ra]</p>
                 </div>
               </div>
-              <div>
-                <head>OPINIO THOMAE</head>
-                <p><ref>Doctor Communis, quarta parte Scripti, dist. 12, art. 1, q. 1</ref>, tenet quod
+              <div xml:id="rfr-quaestio29-Dd1e519">
+                <head xml:id="rfr-quaestio29-Hd1e521">OPINIO THOMAE</head>
+                <p xml:id="rfr-quaestio29-d1e524"><ref xml:id="rfr-quaestio29-Rd1e525">Doctor Communis, quarta parte Scripti, dist. 12, art. 1, q. 1</ref>, tenet quod
                   quantitas in sacramento altaris manet sine subiecto et quod omnia alia accidencia
                   existent in quantitate sicud in subiecto. Et questione secunda, dicit quod illa
                   accidencia agunt et materiam et formas substanciales et ita possunt corrumpi, ita
@@ -458,41 +456,41 @@
                   materia et forma. Et sic dicit in questione quinta illius questionis secunde, quod
                   species sacramenti nutriunt per modum eundem quo ex eis aliquid generetur ita quod
                   non solum ad hominem set eciam sustentant corpus. Hec ille in breui.</p>
-                <div>
-                  <head>CONTRA</head>
-                  <p>1. Secundum illud sequitur quod ignis agens in hostiam causet suam caliditatem
+                <div xml:id="rfr-quaestio29-Dd1e529">
+                  <head xml:id="rfr-quaestio29-Hd1e531">CONTRA</head>
+                  <p xml:id="rfr-quaestio29-d1e534">1. Secundum illud sequitur quod ignis agens in hostiam causet suam caliditatem
                     naturaliter agendo, set naturaliter accione eius non separatur eius accidens a
                     forma sua substanciali; ergo causat simul suam formam substancialem et erit in
                     sacramento alia substancia quam pars Christi uel Christus, quod ipse dicit
                     hereticum quia tunc esset falsum <mentioned>hoc est corpus meum</mentioned>.</p>
-                  <p>2. Preterea, tunc nullus philosophus posset probare quod quelibet pars
-                    substancie est substancia. Contra: <ref>Philosophus, 7 Metafisice</ref>.</p>
-                  <p>3. Preterea, <ref>Philosophus, 4 Metafisice</ref>, expresse dicit quod accidens non
+                  <p xml:id="rfr-quaestio29-d1e540">2. Preterea, tunc nullus philosophus posset probare quod quelibet pars
+                    substancie est substancia. Contra: <ref xml:id="rfr-quaestio29-Rd1e542">Philosophus, 7 Metafisice</ref>.</p>
+                  <p xml:id="rfr-quaestio29-d1e546">3. Preterea, <ref xml:id="rfr-quaestio29-Rd1e548">Philosophus, 4 Metafisice</ref>, expresse dicit quod accidens non
                     accidit accidenti nisi quia ambo accidunt alicui eidem subiecto quia nichil hoc
                     illi magis accidit quam illud huic; ergo nulla qualitas est subiectiue in
                     quantitate.</p>
-                  <p>4. Preterea, in textu ponit quod quantitas est potencia naturalis de secunda
+                  <p xml:id="rfr-quaestio29-d1e552">4. Preterea, in textu ponit quod quantitas est potencia naturalis de secunda
                     specie qualitatis manens in sacramento altaris, et per consequens illa moueret
                     aliquid primo; et ita primum subiectum motus localis esset accidens.</p>
-                  <p>5. Preterea, si sic tunc frustra ponatur materia aliqua, cum quantitas
+                  <p xml:id="rfr-quaestio29-d1e556">5. Preterea, si sic tunc frustra ponatur materia aliqua, cum quantitas
                     sufficienter posset sustenere quamcunque formam; ymmo nullus philosophus posset
                     probare eius necessitatem.</p>
-                  <p>6. Preterea, tunc quantitas esset substancia, quia uere substaret accidentibus
-                    quod est proprium substancie secundum <ref>Philosophum in Predicamentis</ref>.</p>
-                  <p>7. Preterea, forma naturalis esset in quantitate sicud in potencia naturali
+                  <p xml:id="rfr-quaestio29-d1e559">6. Preterea, tunc quantitas esset substancia, quia uere substaret accidentibus
+                    quod est proprium substancie secundum <ref xml:id="rfr-quaestio29-Rd1e561">Philosophum in Predicamentis</ref>.</p>
+                  <p xml:id="rfr-quaestio29-d1e565">7. Preterea, forma naturalis esset in quantitate sicud in potencia naturali
                     sicud respectu subiecti; et quelibet talis habet subiectum substanciale
                     naturale; ergo eadem forma naturalis habet duo subiecta prima.</p>
-                  <p>8. Preterea, tunc aliquod conpositum naturale se conponeretur ex accidente
+                  <p xml:id="rfr-quaestio29-d1e568">8. Preterea, tunc aliquod conpositum naturale se conponeretur ex accidente
                     scilicet uermis generatus, posito quod tunc Deus non crearet materiam aliquam
                     cum ita bene potest eius forma recipi in quantitate disposita qualitatibus sibi
                     conuenientibus sicud qualitas aliqua.</p>
-                  <p>9. Preterea, sequitur quod eadem forma simul potest extrahi de duabus subiectis
+                  <p xml:id="rfr-quaestio29-d1e571">9. Preterea, sequitur quod eadem forma simul potest extrahi de duabus subiectis
                     sicud in primo argumento contra Doctorem Solempnem.</p>
                 </div>
               </div>
-              <div>
-                <head>OPINIO SCOTI</head>
-                <p><ref>Doctor Subtilis, 4 libro, dist. 12, q. 2</ref>, tenet quod quantitas est sine subiecto
+              <div xml:id="rfr-quaestio29-Dd1e576">
+                <head xml:id="rfr-quaestio29-Hd1e578">OPINIO SCOTI</head>
+                <p xml:id="rfr-quaestio29-d1e581"><ref xml:id="rfr-quaestio29-Rd1e582">Doctor Subtilis, 4 libro, dist. 12, q. 2</ref>, tenet quod quantitas est sine subiecto
                   si sit alia res a substancia; set utrum sit alia res uel non ipse non diffinit.
                   Set si quantitas non sit alia res a substancia, nec quantitas coloris alia res a
                   colore, tunc accidencia de genere qualitatis sunt sine subiecto; set accidencia
@@ -505,7 +503,7 @@
                   figurarum et sunt eis. Set nullum accidens respectiuum, dicit ipse, potest esse
                   sine subiecto communiter dicto quia tollere fundatum reris est tollere ipsum
                   respectiuum.</p>
-                <p>Sic ergo tenet iste doctor quod accidencia absoluta omnia possunt esse sine
+                <p xml:id="rfr-quaestio29-d1e586">Sic ergo tenet iste doctor quod accidencia absoluta omnia possunt esse sine
                   subiecto proprie dicto et communiter dicto. Set de facto alia accidencia absoluta
                   in sacramento <supplied>altaris</supplied> sunt in subiecto communiter dicto, quia
                   aliqua sunt priora aliis et attributa eis per modum actus ad subiectum, sicud
@@ -513,12 +511,12 @@
                   sine illo in quo fundatur. Set possunt aliqua esse sine subiecto proprie dicto. Et
                   sic tenet quod in sacramento altaris sint omnia accidencia absoluta de facto sine
                   subiecto proprie dicto.</p>
-                <p>Et uidetur michi quod iste doctor recte dicit quoad articulum, set non recte
+                <p xml:id="rfr-quaestio29-d1e592">Et uidetur michi quod iste doctor recte dicit quoad articulum, set non recte
                   ponit de accidentibus respectiuis; non enim est aliquod accidens respectiuum nisi
                   ibi sit unum accidens absolutum.</p>
-                <div>
-                  <head><supplied>Contra Opinionem Scoti</supplied></head>
-                  <p>Et probatur breuiter sic: creata una forma sicud albedine uel alia , ita quod
+                <div xml:id="rfr-quaestio29-Dd1e595">
+                  <head xml:id="rfr-quaestio29-Hd1e597"><supplied>Contra Opinionem Scoti</supplied></head>
+                  <p xml:id="rfr-quaestio29-d1e601">Et probatur breuiter sic: creata una forma sicud albedine uel alia , ita quod
                     una sola primo existat in mundo, tunc in illa non est alia simulitudo siue
                     respectus similitudinis creatus, quia illa albedo adhuc non est similis alicui.
                     Illa albedine creata sine respectu [W. f. 131v], ita (hec) potest Deus aliam
@@ -526,32 +524,32 @@
                     non est (operis) et per consequens possunt esse due albedines similime in specie
                     et in gradu absque respectu alico qui non est alia illarum; ergo respectus nunc
                     frustra ponitur.</p>
-                  <p>2. Preterea, due albedines sunt magis similes inter se quam respectus qui
+                  <p xml:id="rfr-quaestio29-d1e604">2. Preterea, due albedines sunt magis similes inter se quam respectus qui
                     ponitur similitudinis sic similis albedinem, quia due albedines sunt eiusdem
                     speciei specialissime, et albedo et respectus sunt diuersorum generum; ergo
                     frustra ponitur respectus similitudinis ut una albedo per illum respectum sit
                     similis alteri cum per se magis sicud similes quam per illos respectus.</p>
-                  <p>3. Preterea, respectus similitudinis per quem albedo est similis albedini, aut
+                  <p xml:id="rfr-quaestio29-d1e607">3. Preterea, respectus similitudinis per quem albedo est similis albedini, aut
                     ergo per se est illa similitudo similis duo fundamenta, aut per alium respectum.
                     Si per alium respectum erit in respectibus processus in infinitum. Si per se est
                     respectus unius albedinis similis alteri albedini; ergo pari racione albedo
                     cuius est ille respectus est similis alteri albedini per se, sicud arguit
-                    <ref>Commentator De ente et uno</ref> et <ref>4 Metafisice in principio</ref>.</p>
-                  <p>4. Preterea, Deus possit uelle quod respectus rerum similium sint absque
+                    <ref xml:id="rfr-quaestio29-Rd1e609">Commentator De ente et uno</ref> et <ref xml:id="rfr-quaestio29-Rd1e612">4 Metafisice in principio</ref>.</p>
+                  <p xml:id="rfr-quaestio29-d1e616">4. Preterea, Deus possit uelle quod respectus rerum similium sint absque
                     subiectis,ergo hoc potest fieri. Assertum patet quia uelle respectum existere
                     per se non est uelle iniustum uel peccatum quia tunc (nullus nostrum) posset
                     sine peccato sic uelle, ergo Deus potest sic uelle. Contra patet quia Deus
                     potest hoc uelle quicquid non est iniustum uel peccatum.</p>
-                  <p>5. Preterea, tunc generans animam (respectu ) hic similem angelo in celo,
+                  <p xml:id="rfr-quaestio29-d1e620">5. Preterea, tunc generans animam (respectu ) hic similem angelo in celo,
                     crearet nouum respectum in angelo; et ita ageret in remotum et non per medium,
                     quod non potest esse in aliqua accione quamcunque spirituali sicud probat
-                    <ref>Philosophus, 7 Phisicorum</ref>.</p>
+                    <ref xml:id="rfr-quaestio29-Rd1e622">Philosophus, 7 Phisicorum</ref>.</p>
                 </div>
               </div>
             </div>
-            <div>
-              <head>RESPONSIO</head>
-              <p>Oportet multa argumentare contra istam posicionem quia satis inprobatam est a
+            <div xml:id="rfr-quaestio29-Dd1e629">
+              <head xml:id="rfr-quaestio29-Hd1e631">RESPONSIO</head>
+              <p xml:id="rfr-quaestio29-d1e634">Oportet multa argumentare contra istam posicionem quia satis inprobatam est a
                 venerabilibus doctoribus modernis. Quo tamen ad aliud quod iste doctor dicit in isto
                 articulo uidetur michi dicendum esse cum illo, scilicet quod in sacramento altaris
                 accidencia manent sine subiecto proprie dicto, scilicet substancia, licet aliqua
@@ -563,18 +561,18 @@
                 ibi quantitas alia a qualibet qualitate, illa non est subiectum alicuius qualitatis
                 nisi inproprie quomodo qualitas est subiectum alterius.</p>
             </div>
-            <div>
-              <head>AD ARTICULUM</head>
-              <p>In isto articulo ergo ut uidetur est duplex opinio. Vna opinio est opinio Thomae
+            <div xml:id="rfr-quaestio29-Dd1e638">
+              <head xml:id="rfr-quaestio29-Hd1e640">AD ARTICULUM</head>
+              <p xml:id="rfr-quaestio29-d1e643">In isto articulo ergo ut uidetur est duplex opinio. Vna opinio est opinio Thomae
                 scilicet quod quantitas est alia res a substancia et a qualitatibus et est
                 communiter omnium doctorum. Et secundum hoc ponunt quod omnia accidencia sacramenti
                 preter quantitatem sunt subiectiue in quantitate, et quod ipsa est sine subiecto, et
                 habet uirtutem per potenciam Dei simili modo recipiendum accidencia sicud habuit
                 quando fuit in substancia. Et secundum istam opinionem euacunatur argumenta multa et
                 plures difficultates que non ita soluuntur ponendo quod quantitas non est aliud a
-                substancia et a qualitate. Et hanc opinionem dicit <ref>Doctor Communis, 4 libro, dist.
+                substancia et a qualitate. Et hanc opinionem dicit <ref xml:id="rfr-quaestio29-Rd1e645">Doctor Communis, 4 libro, dist.
                 12, art. 1, q. 1</ref>.</p>
-              <p>Alia est opinio modernorum ponencium qualitatem est quantam per se, et similiter
+              <p xml:id="rfr-quaestio29-d1e649">Alia est opinio modernorum ponencium qualitatem est quantam per se, et similiter
                 quamlibet rem materialem, nec ponit aliquam quantitatem preter substanciam et
                 qualitatem. Et secundum istam opinionem oportet dicere accidencia omnia in
                 sacramento altaris manere sine subiecto proprie dicto, sicud dicit Doctor Subtilis.
@@ -583,341 +581,342 @@
                 quam substancia uel qualitas non uidetur michi nunc esse insistendum, quia hoc magis
                 pertinet ad alias scolas.</p>
             </div>
+          
+            <div xml:id="rfr-quaestio29-Dd1e654">
+              <head xml:id="rfr-quaestio29-Hd1e656">SET RESPONDENDUM AD ARGUMENTA</head>
+              <p xml:id="rfr-quaestio29-d1e659">1. Primum argumentum fuit <quote xml:id="rfr-quaestio29-Qd1e661">in sacramento altaris remanet forma substancialis
+                elementaris [O. f. 112va] ergo accidencia</quote>, et cetera, osque in finem argumenti <ref xml:id="rfr-quaestio29-Rd1e664">Thomas
+                dicit, prima parte Scripti, dist. 3, art. 3, q. 2</ref>, quod potencia naturalis in omni citra
+                Deum est aliud a substancia illius cuius est, probans per hoc quod potencie mentis
+                humane distinguuntur realiter. Hoc sustinendo, dicendum esset quod grauitas, que est
+                principium inmediatum motus elementi , non est substancialis forma elementi, set
+                qualitas; unde Philosophus aliquando uocat grauitatem et leuitatem substancias
+                elementorum, et aliquando accidencia. Vnde opinio Thomae fuit reprobata in questionibus
+                de partibus ymaginis per multa media quorum unum est sufficiens, ut michi uidetur, quia
+                posita terra in aere et ita potencia naturali que ipse ponit principium motus
+                adnichilata per potenciam Dei, staret illa terra ibi uel discenderet; si discenderet
+                superfluebat prius illa potencia accidentalis; si staret, hoc esset uiolente pure; et
+                per consequens si moueretur ibi uersus contrarium sui loci naturalis, resisteret
+                mouenti; ipsum ergo inclinaret ad contrarium [V. f. 173va] moueretur ad contrarium nisi
+                inpediretur.</p>
+              <p xml:id="rfr-quaestio29-d1e668">Ideo, supposito sicud uerum est quod grauitas est forma substancialis, dico ad
+                argumentum quod grauitas non manet in sacramento altaris; nec uideo aliter posse dici,
+                nisi quod motus hostie est inmediate a Deo, ita quod Deus sua propria potencia suplet
+                uicem grauitatis que erat in pane quoad quemlibet eius motum [P. f. 189rb] localem
+                naturalem.</p>
+              <p xml:id="rfr-quaestio29-d1e671">Set contra hoc potest dici quia secundum hoc, si hostia consecrata moueretur uersus
+                sursum, non resisteret motori suo, quia si resisteret, hoc erit per aliam formam in
+                ipsa; set Deus etsi potest in hostia supplere uicem grauitatis in quantum est agens, non
+                tamen potest supplere uicem grauitatis in quantum grauitas est causa formalis in hostia.
+                Ergo cum hostia resistat necessario per aliam causam formalem intrinsecam, sequitur quod
+                in hostia sit aliud principium per quod resistat quam Deus; et ita uidetur
+                <supplied>quod</supplied> remanet necessario grauitas.</p>
+              <p xml:id="rfr-quaestio29-d1e677">Respondeo hic, et dico quod argumentum bene probat quod in hostia consecrata est
+                aliquod principium formale per quod hostia resistit motui ascensus quam Deus, et hoc est
+                uerum. Et dico quod illud principium est eius duricies et similter eius continuatiua
+                uirtus quicquid illud sit. Vnde per illa principia formalia resistendi et per potenciam
+                Dei supplentem uicem grauitatis quoad inclinacionem uersus sursum sufficienter resistit
+                hostia consecrata mouenti ipsam uersus deorsum, sicud si angelus aliquis esset hostie
+                consecrate unitus ad supplendum uicem grauitatis que prefuit quoad omnem inclinacionem
+                eius ad motum, non tamen ut esset unitus per modum cause formalis, certe iste angelus
+                cum duricie et uirtutibus continuatiuis hostie resistentibus diuisioni sufficienter
+                resisterent mouenti hostiam consecratam et uersus sursum. Et estimo magis quod Deus
+                omnia talia que pertinent alico modo ad misterium incarnacionis per angelos efficiat
+                quay per seipsum; utroque modo tamen potest res fieri, sicud apparet. [W. f. 132r]</p>
+              <p xml:id="rfr-quaestio29-d1e681">2. Secundum argumentum <quote xml:id="rfr-quaestio29-Qd1e683">fuit in hostia consecrata sunt accidencia actiua et passiua</quote>,
+                et cetera, usque in fine. Respondeo et concedo quod in hostia consecrata sunt accidencia
+                actiua et passiua; et tamen concluditur ex hoc quod ibi sit materia, ponendo quod ibi
+                sit qualitas, sicud ponit Doctor Communis, et quod ipsa sit subiectum omnium aliorum
+                accidencium. Concedendum est quod ibi est materia, set non est ibi materia de qua
+                Philosophus loquebatur; nec est eius auctoritas ad propositum nostrum, quia ipse non
+                loquebatur nisi de accioni naturali cum qua non coniugitur aliquis effectus
+                supernaturalis, quia ipse talem effectum non percipit. Vnde ipse intellexit quod agens
+                naturale, existens precise in <supplied>aliqua</supplied> disposicione communis cursus
+                nature, et passum tale necessario communicant in materia; et hoc est uerum. Set non est
+                ad propositum, quia accidencia in hostia non sunt agencia naturalia nec passa naturalia
+                secundum hunc modum. Set quamuis ista positio de quantitate euacuet istam difficultatem
+                acutam, adhuc stat alia difficultas, quia ponatur quod ignis corrumpat [P. f. 189va]
+                hostiam consecratam, tunc certum est quia illa quantitas [V. f. 173vb] recipit aliam
+                formam substancialem, quia postquam in situ hostie non est corpus Christi amplius, tunc
+                est ibi aliquod corpus generatum ab igne illo agente; et ita erit ibi una substancia
+                cuius materia est accidens; et sic iterum illa potest corrumpi et quantitas eius erit
+                materia alterius forme et sic in eternum. Et ita uidetur quod superfluit nunc ponere
+                aliquam materiam preter quantitatem, quia quantitas ita perfecte recipit formas
+                substanciales sicud materia prima. Et in eodem conposito nutrito ex hostiis, secundum
+                hanc posicionem est alia pars cuius materia est quantitas hostiarum, et alia cuius
+                materia est prima forma substancialis; que non sunt uera [O. f. 112vb], quia sic nunquam
+                sciremus ubi esset materia prima et ubi quantitas in rebus naturalibus; quod stultum est
+                dicere.</p>
+              <p xml:id="rfr-quaestio29-d1e690">Hic respondeo quantum michi uidetur. Et dico quod hoc quod quantitas hostie consecrate
+                supplet uicem materie substancialis quoad quamcunque transmutacionem non est nisi dum
+                sub ipsa quantitate est corpus Christi sacramentaliter; et in primo instanti in quo
+                accidencia hostie consecrate sic transmutantur quod corpus Christi non sit cum illis
+                sacramentaliter in illo instanti. Dico quod creat Deus illam materiam que prius fuit in
+                hostia antequam consecracionem, ut res naturales habeant suas acciones naturales; ymmo
+                uerisimile est quod quantitas hostie consecrate habet uirtutem supplendi uicem materie
+                prime ex hoc quod corpus Christi integrum est sub ipsa tali modo essendi, scilicet
+                sacramentaliter; et ideo ammitit illam uirtutem in primo instanti in quo corpus Christi
+                desinit ibi esse. Vnde secundum hunc modum oportet dicere quod si Deus non crearet
+                materiam in illo instanti, non posset aliquid relictum in situ hostie pati ab alico, set
+                esset ibi quantitas abstracta et qualitates similiter.</p>
+              <p xml:id="rfr-quaestio29-d1e693">Si secondo debet responderi ad argumentum, tenendo quod quantitas est alia res a
+                materia et a quacunque forma substanciali et a qualitate, set tenendo quod quelibet
+                forma materialis est quanta per se ipsam, tunc est difficilius soluere argumentum.
+                <quote xml:id="rfr-quaestio29-Qd1e695">Doctor Subtilis, 4 libro, dist. 12, a. 3, q. 1</quote>, dicit quod sustinedo quantitatem non
+                distingui ab aliis formis, set quod qualitates in sacramento altaris sunt quante per se,
+                dicendum est quod non potest alico modo qualitas sacramenti transmutari ab agente
+                naturali, set hoc quod apparet apud sensum de alteracione qualitatum hostie consecrate
+                per accionem agencium naturalium est per accionem Dei, et non per accionem agentis
+                naturalis; ymmo Deus suplet loco agentis naturalis alteracionem successiuam qualitatum
+                absque subiecto alico, ne fidei meritum euacuaretur, si nos uideremus species ibi esse
+                intransmutabilis.</p>
+              <p xml:id="rfr-quaestio29-d1e699">Et uidetur michi quod iste Doctor recte dicit, sustinendo quod non sit ibi quantitas
+                subiecta qualitatibus. Et sic negandum est illud quod assumitur [P. f. 189vb] in
+                argumento, scilicet quod in sacramento eukaristie remanent accidencia actiua et passiua
+                naturaliter, quia illa non sunt passiua nisi supernaturaliter in sacramento existencia,
+                set possunt agere naturaliter, etsi sint sine materia. Non tamen sunt in disposicione
+                communis cursus nature; et ideo non oportet quod communicent in materia cum passo, quia
+                auctoritas <ref xml:id="rfr-quaestio29-Rd1e701">Philosophi, primo De generacione</ref> et <ref xml:id="rfr-quaestio29-Rd1e704">tercio Phisicorum</ref> quod agens et passum
+                contradicant in materia intelligitur sicud si utrumque [V. f. 174ra] illorum sit
+                existens in disposicionibus communis cursus sue speciei; non enim sciuit Philosophus
+                alium cursum esse possibilem.</p>
+              <p xml:id="rfr-quaestio29-d1e708">Audistis duas responsiones, eligatis quem uolueritis.</p>
+              <p xml:id="rfr-quaestio29-d1e711">3. Tercium argumentum fuit hoc: <quote xml:id="rfr-quaestio29-Qd1e713">primo De generacione dicit Philosophus</quote>, et cetera.
+                Respondeo sicud ad precedens argumentum: sustinendo quantitatem esse subiectam
+                qualitatibus; concedendum est qualitates hostie esse actiuis et passiuis; et non
+                sequitur quod sunt in materia substanciali; set hoc sequeretur si agerent et paterentur
+                secundum disposiciones communis cursus nature uel sue speciei; sic enim loquebatur
+                Philosophus. Si autem non ponatur quantitas subiecta qualitatibus eukaristie sacramenti,
+                tunc concedendum est quod iste qualitates sunt actiue, set non passiue ab agente
+                naturali, sicud intendit Philosophus, cum dicit quod, si calor sit separatus, ageret et
+                non pateretur, scilicet ab agente naturali; cum hoc tamen stat quod posset pati ab
+                agente supernaturali.</p>
+              <p xml:id="rfr-quaestio29-d1e718">Set contra istud secundum istam responsionem, quando accidencia hostie consecrate
+                corrumpentur illa non corrumpentur nisi a Deo; set hoc est inpossibile, quia Deus
+                nunquam est causa non esse, neque tenendi ad non esse, sicud declarat <ref xml:id="rfr-quaestio29-Rd1e720">Augustinus, 83
+                Questionum, q. 21</ref>.</p>
+              <p xml:id="rfr-quaestio29-d1e724">Respondeo. Et dico quod illa accidencia hostie consecrate, quando sic corrumpuntur
+                successiue per generacionem qualitatum contrariarum, corrumpuntur mediate; et non
+                corrumpuntur inmediate a Deo, set per hoc quod Deus creat continue in situ hostie
+                consecrate qualitates contrarias naturalibus qualitatibus hostie;
+                <supplied>ergo</supplied> corrumpuntur qualitates hostie mediantibus qualitatibus de
+                nouo creatis mediate a Deo, et inmediate a qualitatibus nouiter creatis. Set Augustinus
+                intendit quod Deus non sit causa inmediata deficiendi uel tendendi ad non esse.</p>
+              <p xml:id="rfr-quaestio29-d1e730">Set secundum istud adhuc uidetur quod qualitates hostie naturaliter paciantur, et tamen
+                sunt separate a materia, cum corrumpantur per accionem naturalem qualitatum creatarum de
+                nouo.</p>
+              <p xml:id="rfr-quaestio29-d1e733">Respondeo. Et dico quod illa corrupcio est supernaturalis, quamuis agens inmediatum
+                agat naturaliter, quia accio agentis inmediati, scilicet qualitatis de nouo create a
+                Deo, pendet ab accione supernaturali sibi inmediate coniuncta per quam creatur; et ideo
+                corrupcio qualitatum hostie est supernaturalis. Et ita auctoritas Philosophi
+                intelligenda est sic quod calor separata ageret [P. f. 190ra], et non pateretur passione
+                [O. f. 113ra] mere naturali, scilicet que non dependeret ab accione supernaturali
+                coniuncta ei. Verius tamen dicendum est quod Deus corrumpit inmediate illas qualitates ;
+                set hoc est, quia suplet uicem generantis qualitates contrarias; nec in tali casu uult
+                Augustinus uel Anselmus hoc negare, set solum in cursu communi hoc negant.</p>
+              <p xml:id="rfr-quaestio29-d1e736">4. Quartum argumentum fuit hoc: <quote xml:id="rfr-quaestio29-Qd1e738">ex hostia consecrata per putrefaccionem</quote>, et cetera
+                usque in finem.</p>
+              <p xml:id="rfr-quaestio29-d1e742">Respondeo sicud ad secundum argumentum. Et dico quod non potest uermis generari ex
+                hostia consecrata per accionem agentis naturalis precise; ymmo hostia esset
+                incorruptibile et intransmutabilis ab agente naturali, nisi Deus crearet qualitates
+                contrarias qualitatibus eius. Et sic per accionem Dei concedo quod ex hostia consecrata
+                potest generari uermis [V. f. 174rb], sic scilicet quod per creacionem talium qualitatum
+                quales agens putrefaciens [W. f. 132v] causaret in hostia, si haberet materiam, unde
+                corrumpuntur qualitates hostie, quousque corpus Christi desinat ibi esse. Et in illo
+                instanti creat Deus materiam, uel pocius recreat materiam que prefuit in hostia; et
+                inducitur tunc in istam materiam forma uermis. Nec uideo quomodo aliter potest ex hostia
+                consecrata generari uermis per putrefaccionem, siue ponatur quantitas subiecta uel
+                non.</p>
+              <p xml:id="rfr-quaestio29-d1e746">5. Quintum argumentum fuit hoc: <quote xml:id="rfr-quaestio29-Qd1e748">ponatur quod ignis agat in aliquam hostiam
+                consecratam</quote>, et cetera usque in finem. Respondeo sicud ad precedens, sustinendo quod
+                quantitas maneat alia a qualitatibus, concedo quod ille ignis generat calorem in situ
+                illius hostie, et similter suam formam substancialem; et concedo quod ille forme
+                recipiuntur in aliqua materia, communiter loquendo de materia, scilicet in quantitate.
+                Set non oportet quod recipiantur in aliqua materia substanciali nisi in illo instanti in
+                quo corpus Christi desinit esse ibi; tunc enim, sicud dixi, Deus recreat materiam que
+                prius fuit sub forma panis, et illa tunc fit subiectum quantitatis et forme
+                substancialis ignis et omnium qualitatum ibi existencium. Set sustinendo ibi non esse
+                quantitatem aliquam distinctam a qualitatibus, dico tunc, sicud dixi in aliis
+                argumentis, quod ignis non agit in hostiam nec potest agere in hostiam consecratam, set
+                Deus, in creando qualitates et formam ignis, supplet integre totam accionem quam ignis
+                ageret, si illic esset materia, et propter causam quam dixi, quia si hostia consecrata
+                appararet inpassibilis, tunc fides de isto sacramento esset euidens et minoris meriti
+                quam nunc est. Et ideo ne meritum fidei minuatur Deus supplet [P. f. 190rb] ibi accionem
+                agentis naturalis; quam accionem agens naturale non potest agere tunc, cum non habeat
+                ibi materiam in qua agat; que materia necessario requiritur in omni accione agentis
+                naturalis, ponendo quantitatem non distingui ab aliis predicamentis.</p>
+              <p xml:id="rfr-quaestio29-d1e752">Set hic uidetur maior dubitacio , quia siue ponatur ibi quantitas siue non, ibi
+                causantur qualitates ignis et eius forma substancialis; et ita in hostia consecrata
+                esset alia substancia preter Christum et eius partes. Et confirmatur istud per hoc quod
+                forma ignis potest intendi et remitti sicud eius calor , et generatur partiter sicud
+                calor et secundum sentenciam <ref xml:id="rfr-quaestio29-Rd1e754">Commentatoris, 3 De celo, comm. 67</ref>: ergo cum per accionem
+                ignis in hostiam, ponendo ibi esse quantitatem subiectam; causatur calor partiter,
+                sequitur quod pari modo ibi generetur in quantitate hostie tanquam in subiecto forma
+                substancialis ignis partiter , et eodem modo uidetur quod forma ignis generetur
+                partibiliter sicud calor, si Deus creet successiue calorem, quia tunc Deus supplet totam
+                accionem agentis naturalis quam ageret si ibi esset materia; set ignis iste si in hostia
+                consecrata esset materia, ageret suam formam substancialem sicud calorem; ergo sequitur
+                quod nunc continue generetur substancialis forma ignis simul cum calore; set hoc
+                consequens est inpossibile. Probatur: quia tunc esset continua intensio forme ignis ergo
+                ibi in forma ignis est uera successio; et per consequens ibi est remissio forme
+                contrarie substancialis. Consequens est falsum, cum nulla alia forma substancialis ibi
+                sit que sit passibilis ab igne. Et consequencia patet per hoc quod semper in intensione
+                forme substancialis et accidentalis (consequentis) illam, oportet quod generacio forme
+                substancialis sit prior, saltem secundum causam, quia forma substancialis est subiectum
+                sui proprii accidentis; ergo presupponitur illi et similiter quiscunque gradus eius
+                presupponitur gradui sibi naturali qualitatis (consequentis) illum. Et ita sequitur
+                ponendo quantitatem ibi abstractam, quod generacio forme ignis est prior causaurate quam
+                generacio caloris; et per consequens, cum generacio utriusque sit uere successiua,
+                sequitur quod illa generacio que prior est, sit per se successiua; et per consequens
+                forma secundum quam fit illa successio per se habeat istam formam contrariam sibi per se
+                secundum quam sit remissio proporcionis sue intensionis.</p>
+              <p xml:id="rfr-quaestio29-d1e758">Set patet quid hic responderetur, quia, ponendo ibi non esse quantitatem subiectam,
+                tunc causantur ibi qualitates ignis approximati, et similiter sua forma substancialis,
+                et successiue; set successio tunc in forma substanciali non est per remissionem forme
+                sibi contrarie, cum nulla sibi [O. f. 112rb] contraria sit illic; set est ex sola
+                potencia Dei sine materia, et similiter sine contrario quod remittitur. Set per
+                intensionem [P. f. 190va] qualitatum ignis fit remissio in qualitatibus hostie; que
+                qualitates sunt quodammodo contrarie qualitatibus ignis. Set sustinendo quantitatem ibi
+                esse subiectam accioni ignis, dicitur quod non generatur ibi forma ignis substancialis,
+                quia quantitas non habet ibi uirtutem recipiendi formam aliquam substancialem, set solum
+                accidentalem; et ideo dicitur quod non generatur forma ignis ibi antequam corpus Christi
+                desinit ibi esse, et sit ibi materia que prefuit recreata a Deo; tunc enim causatur
+                forma ignis per accionem ignis in ista materia. Set hec responsio uidetur non posse
+                stare. Primo, quia secundum primam partem huius responsionis sequitur quod semper in
+                quacunque hostia consecrata post primum instans consecraccionis sit alia substancia
+                preter Christum et eius partes; quod tamen negat uniueraliter tota ecclesia. Et probatur
+                per hoc quod hostia est contraria secundum suas qualitates aeri continuanti ipsam; ergo
+                Deus agit in ipsam inmediate post instans consecracionis, causando ibi aeris qualitates;
+                et per consequens Deus tunc causat formam substancialem, quia Deus supplet, ut ponit
+                ista responsio, totam accionem quam agens naturale ageret, si in hostia esset materia;
+                set certum est quod aer ageret in hostiam, si haberet materiam, causando suas
+                qualitates, et similiter suam formam, quia non potest naturaliter causare qualitates
+                sine sua forma nec econtrario; ergo nunc Deus semper in quacunque hostia consecrata
+                causat continue alias substancias preter corpus Christi et eius partes; quod est
+                falsum.</p>
+              <p xml:id="rfr-quaestio29-d1e761">Contra: secundum quod dicitur in ista responsione, scilicet quod, sustinendo ibi esse
+                quantitatem, non causatur forma ignis agentis in hostiam ante illud instans in quo forma
+                hostie sic corrumpitur quod Christus non amplius existat sub illa, et quod tunc in
+                materia quam Deus creat causatur primo forma ignis previo agentis, quia quero de forma
+                ignis tunc causata: aut creatur in illo instanti, aut in tempore postea. Si in illo
+                instanti: ergo forma ignis ab agenti naturali et in passo naturali generetur subito;
+                quod non uidetur esse possibile. Et preterea si subito generetur in illo instanti forma
+                ignis, tunc generatur in alico certo gradu; et per consequens generatur subito in summo
+                gradu, quia non est ibi tunc forma contraria; ergo si ignis causet suam formam tunc
+                subito in alico gradu, sequitur quod causaret illam in gradu summo , cum nichil ibi
+                magis inpediat gradum summum quam gradum remissum,.nisi aliquis diceret quod ibi sunt
+                qualitates contrarie qualitatibus ignis in summo et ignis in illo instanti producit
+                gradum proporcionatum suis qualitatibus tunc ibi existentibus et compacientibus [P. f.
+                190vb] secum alias qualitates contrarias forme ignis in summo [V. f. 174vb]; set non
+                potest producere gradum summum sue forme, quia qualitates contrarie illi forme non
+                possunt subito totaliter corrumpi. [W. f. 133r]</p>
+              <p xml:id="rfr-quaestio29-d1e764">Contra istud, sicud prius fuit tactum: generacio forme ignis est prior caliditate quam
+                suarum qualitatum ; ergo contrarietas qualitatum ibi existencium ad formam ignis in
+                summo est contrarietas per accidens tantum, scilicet propter qualitates ignis in summo
+                que contrariantur illis qualitatibus ibi; ergo ignis in agendo suam formam in gradu
+                summo non habet ibi aliquam resistenciam sibi presuppositam per se, set tamen per
+                accidens; ergo producit per se suam formam in fine, et solum inpeditur a produccione
+                qualitatum suarum in summo.</p>
+              <p xml:id="rfr-quaestio29-d1e767">Confirmatur istud sic: si in igne agente Deus adnichilaret in illo instanti omnes
+                qualitates, sola substancia sua remanente, tunc ignis ageret subito suam formam in
+                summo, quia non haberet inpediens, quia in illo nichil esset contrarium alicui existenti
+                in passo. Ergo pari modo ignis tunc agit , cum non sit aliquid per se sibi resistentes a
+                parte passi, set tantum per accidens; et illa resistencia per se; et per consequens non
+                est resistencia per accidens; non reducitur hic ad aliquam resistenciam per se; et per
+                consequens non est resistencia per accidens, cum omne per accidens reducatur ad aliquod
+                per se sicud, patet a Commentatore, 8 Phisicorum et 3 De anima.</p>
+              <p xml:id="rfr-quaestio29-d1e771">Ideo uidetur michi esse aliter dicendum ad argumentum sic, scilicet, quod si ignis
+                approximetur hostie consecrate, non causat nisi qualitates suas, etsi sit ibi quantitas
+                subiecta accioni; nec eciam Deus causat similiter nisi qualitates ignis, ponendo ibi non
+                est quantitatem subiectam, ita quod nullo modo est ibi alia substancia preter Christum
+                et eius partes ante illud instans in quo corpus Christi desinit esse ibi. Set tunc
+                creatur materia a Deo que recipit formam ignis; set illa forma in illo instanti causatur
+                a Deo in illo gradu in quo fuisset per accionem ignis precedentem, si ibi fuisset
+                materia; et non causatur tunc ab igne, set ignis ulterius tunc inmediate post illud
+                instans causat successiue suam formam et suas qualitates. Vnde in illo instanti, sicud
+                Deus creat materiam ita creat in illa<supplied>m</supplied> substanciam , ymmo omnes formas substanciales
+                que prius, fuissent ibi, posito quod hostia non fuisset consecrata. Et ita dat ibi alias
+                formas substanciales que prius fuerunt ante consecracionem et in gradibus proporcionatis
+                qualitatibus in illo instanti ibbi existentibus. Et eciam si alia forma mixta foret
+                proporcionata illis qualitatibus in illo instanti in quo corpus Christi desinit in esse,
+                dico quod illam formam Deus in illo instanti similiter causaret quia Deus in illo
+                instanti supplet [P. f. 191ra] totum quod fuisset in illo instanti, si non fuisset [O.
+                f. 112va] consecracio facta. Sic patet ad istud argumentum.</p>
+              <p xml:id="rfr-quaestio29-d1e777">6. Sextum argumentum fuit hoc: <quote xml:id="rfr-quaestio29-Qd1e779">hostia recepta ab uno communicato digeretur tandem</quote>,: et
+                cetera usque in finem. Respondeo et dico quod hostia consecrata digeritur; intelligendo
+                per hostiam aggregatum ex accidentibus que fuerunt in pane. Et concedo quod in primo
+                instanti in quo hostia est corrupta est aliquod corpus naturale in situ illius hostie;
+                et concedo quod illud corpus naturale in illo instanti est generatum, set non ab agente
+                naturali, dico scilicet a membro corporis quod a solo Deo tunc simul creante materiam et
+                formam illius corporis. Et ideo non sequitur quod illa materia prefuit, scilicet
+                inmediate ante, quia de nouo creatur a Deo.</p>
+              <p xml:id="rfr-quaestio29-d1e783">Set secundum istam responsionem sequitur quod naturaliter non posset homo nutiri ex
+                hostiis, quia naturali accione non potest aliqua hostia consecrata conuerti in naturam
+                corporis alendi.</p>
+              <p xml:id="rfr-quaestio29-d1e786">Respondeo hic sicud respondet Doctor Subtilis; et dico quod nutiricio est duplex; una
+                que est restauracio partis deperdite, et sic [V. f. 174ra] accipiendo <mentioned>nutricionem</mentioned>
+                concedo quod ex hostiis consecratis non potest naturaliter aliquis homo nutriri. Et
+                istud uidetur <ref xml:id="rfr-quaestio29-Rd1e791">Magister dicere, 4 libro, dist. 13</ref>, uersus finem, ubi dicit quod ab
+                animalibus brutis corpus Christi non sumitur. Si tamen in homine per accionem naturalem
+                posset hostia consecrata conuerti in hominis corporis, pari modo posset esse sic in
+                animalibus brutis, et posset corpus Christi sic sumi a brutis; quod negat Magister. Et
+                ideo uidetur quod Magister negat hoc, quia hostia consecrata non posset conuerti in
+                naturam animalis bruti; nec de facto conueritur in homine per accionem Dei, quia Deus
+                non uult istam conuertere in brutis sicut uult sicud conuertitur in homine. Alio modo
+                uocatur <mentioned>nutricio</mentioned> quecunque reductio membrorum animalis ad statum priorem secundum
+                qualitates; et sic potest homo nutriri ex hostiis consecratis; et similter animal
+                brutum, quia hostia consecrata habet accionem naturalem in membra hominis et animalis
+                bruti qualem accionem habet hostiam non consecratam. Et ideo simili modo potest hostia
+                consecrata reducere complexionem lapsam ad statum naturalem, saltem secundum qualitates
+                , sicud potest hostia non consecrata, licet non possit conuerti per accionem naturalem
+                in naturam membri animalis.</p>
+              <p xml:id="rfr-quaestio29-d1e798">Set adhuc redit reliqua pars argumenti, scilicet quod, digesta hostia consecrata per
+                hunc modum, scilicet per accionem hominis uel bruti, sequitur quod situs in quo fuit
+                hostia illa, postea sit uacuus, uel quod corpus circumstans moueatur subito usque ad
+                medium [P. f. 191rb] illius situs. Et preterea, si talis hostia potest nutrire isto
+                secundo modo animal brutum, et hoc naturaliter, ergo animal brutum potest naturaliter
+                corrumpere hostiam illam, scilicet illas qualitates. Et per consequens post corrupcionem
+                illarum qualitatum erit corpus circumstans subito motum, sicud fuit argumentum, uel iste
+                situs remanebit uacuus, quod similiter falsum est. Hic respondeo et dico quod talis
+                hostia consecrata potest nutrire animal brutum et hominem secundo modo nutricionis,
+                scilicet reducendo conplexionem membrorum ad statum priorem, saltem aliqualiter. Set
+                dico quod nec in homine nec in animali bruto potest hostia digeri naturaliter, set solum
+                per accionem diuinam; nec ponendo dico quantitatem subiectam qualitatibus in hostia; set
+                de facto digeritur in homine per accionem Dei, et in animali bruto non, quia Deus non
+                uult. Et si homo uoluerit dicere quod hostia consecrata digeritur in animali bruto, ipse
+                potest dicere quod hoc fit precise per accionem Dei sicud in homine. Set tunc in fine
+                quando corpus Christi desinit ibi esse, in homine creat Deus formas substanciales
+                conuenientes qualitatibus ibi existentes, et similiter materiam; set in brutis non. Set
+                mutat aliquod corpus circumstans subito in illum situm ubi fuit prius hostia et ideo
+                animal brutum non sumit proprie corpus Christi. Set ponendo quantitatem subiectam
+                qualitatibus, dico quod in homine, et similiter in animali bruto, potest hostia digeri
+                naturaliter quousque corpus Christi desinat ibi esse; et tunc causabuntur per accionem
+                naturalem quousque ad illud instans accidencia naturali membri animalis agentis in
+                hostia. Et in illo instanti si Deus non uoluerit aliquod creare, cessabit accio
+                cuiuscumque agentis naturalis in perpetuum, et remanebunt in perpetuum accidencia
+                replencia situm sine subiecto substanciali; set uerisimilius est quod de facto [V. f.
+                174rb] in homine et eciam in brutis Deus creet materiam et formas conuenientes illis
+                accidentibus in illo instanti in quo [W. f. 133v] corpus Christi desinit ibi esse, et
+                quod sic animal brutum sicud homo nutritur ex hostiis consecratis. Et quod Magister
+                negat animal brutum corpus Christi sumere propter hoc quod nec ibi prodest nec obest
+                supernaturaliter. Set secundum utramque responsionem oportet concedere quod per accionem
+                naturalem precise non potest homo uel animal brutum nutriri proprie, scilicet ut per
+                accionem naturalem in hostias consecratas fiat in eis restauracio substancie
+                deperdite.</p>
+              <p xml:id="rfr-quaestio29-d1e801">7. Et per hoc patet ad septimum argumentum quod fuit: <quote xml:id="rfr-quaestio29-Qd1e803">homo potest nutriri ex hostiis
+                consecratis</quote>, et cetera usque in finem. Dictum est quod homo non potest nutriri ex
+                hostiis consecratis primo modo nutricionis nisi coniuncta accione Dei; set secundo modo
+                potest [P. f. 191 va] homo nutriri, et similiter animal brutum nutriri ex hostiis
+                consecratis, ponendo quantitatem subiectam qualitatibus. Nec sequitur ex hoc quod in
+                hostia consecrata sit alia materia passibilis, quia illa nutricio [O. f. 112vb] secundo
+                modo dicta non sit propter hoc quod hostia patitur, set propter hoc quod agit in membrum
+                cui approximatur.</p>
+              <p xml:id="rfr-quaestio29-d1e808">8. Octauum argumentum fuit: <quote xml:id="rfr-quaestio29-Qd1e810">hostia consecrata sicud patet ad sensum</quote>, et cetera usque
+                in finem. Respondeo sustinendo quod ibi non sit quantitas subiectiua qualitatibus,
+                concendendum est quod hostia consecrata frangitur ab agente naturali, et condensatur,
+                per conpressionem scilicet, et incuruatur.</p>
+            </div>
           </div>
-        </div>
-        <div>
-          <p>SET RESPONDENDUM AD ARGUMENTA</p>
-          <p>1. Primum argumentum fuit <quote>in sacramento altaris remanet forma substancialis
-            elementaris [O. f. 112va] ergo accidencia</quote>, et cetera, osque in finem argumenti <ref>Thomas
-            dicit, prima parte Scripti, dist. 3, art. 3, q. 2</ref>, quod potencia naturalis in omni citra
-            Deum est aliud a substancia illius cuius est, probans per hoc quod potencie mentis
-            humane distinguuntur realiter. Hoc sustinendo, dicendum esset quod grauitas, que est
-            principium inmediatum motus elementi , non est substancialis forma elementi, set
-            qualitas; unde Philosophus aliquando uocat grauitatem et leuitatem substancias
-            elementorum, et aliquando accidencia. Vnde opinio Thomae fuit reprobata in questionibus
-            de partibus ymaginis per multa media quorum unum est sufficiens, ut michi uidetur, quia
-            posita terra in aere et ita potencia naturali que ipse ponit principium motus
-            adnichilata per potenciam Dei, staret illa terra ibi uel discenderet; si discenderet
-            superfluebat prius illa potencia accidentalis; si staret, hoc esset uiolente pure; et
-            per consequens si moueretur ibi uersus contrarium sui loci naturalis, resisteret
-            mouenti; ipsum ergo inclinaret ad contrarium [V. f. 173va] moueretur ad contrarium nisi
-            inpediretur.</p>
-          <p>Ideo, supposito sicud uerum est quod grauitas est forma substancialis, dico ad
-            argumentum quod grauitas non manet in sacramento altaris; nec uideo aliter posse dici,
-            nisi quod motus hostie est inmediate a Deo, ita quod Deus sua propria potencia suplet
-            uicem grauitatis que erat in pane quoad quemlibet eius motum [P. f. 189rb] localem
-            naturalem.</p>
-          <p>Set contra hoc potest dici quia secundum hoc, si hostia consecrata moueretur uersus
-            sursum, non resisteret motori suo, quia si resisteret, hoc erit per aliam formam in
-            ipsa; set Deus etsi potest in hostia supplere uicem grauitatis in quantum est agens, non
-            tamen potest supplere uicem grauitatis in quantum grauitas est causa formalis in hostia.
-            Ergo cum hostia resistat necessario per aliam causam formalem intrinsecam, sequitur quod
-            in hostia sit aliud principium per quod resistat quam Deus; et ita uidetur
-            <supplied>quod</supplied> remanet necessario grauitas.</p>
-          <p>Respondeo hic, et dico quod argumentum bene probat quod in hostia consecrata est
-            aliquod principium formale per quod hostia resistit motui ascensus quam Deus, et hoc est
-            uerum. Et dico quod illud principium est eius duricies et similter eius continuatiua
-            uirtus quicquid illud sit. Vnde per illa principia formalia resistendi et per potenciam
-            Dei supplentem uicem grauitatis quoad inclinacionem uersus sursum sufficienter resistit
-            hostia consecrata mouenti ipsam uersus deorsum, sicud si angelus aliquis esset hostie
-            consecrate unitus ad supplendum uicem grauitatis que prefuit quoad omnem inclinacionem
-            eius ad motum, non tamen ut esset unitus per modum cause formalis, certe iste angelus
-            cum duricie et uirtutibus continuatiuis hostie resistentibus diuisioni sufficienter
-            resisterent mouenti hostiam consecratam et uersus sursum. Et estimo magis quod Deus
-            omnia talia que pertinent alico modo ad misterium incarnacionis per angelos efficiat
-            quay per seipsum; utroque modo tamen potest res fieri, sicud apparet. [W. f. 132r]</p>
-          <p>2. Secundum argumentum <quote>fuit in hostia consecrata sunt accidencia actiua et passiua</quote>,
-            et cetera, usque in fine. Respondeo et concedo quod in hostia consecrata sunt accidencia
-            actiua et passiua; et tamen concluditur ex hoc quod ibi sit materia, ponendo quod ibi
-            sit qualitas, sicud ponit Doctor Communis, et quod ipsa sit subiectum omnium aliorum
-            accidencium. Concedendum est quod ibi est materia, set non est ibi materia de qua
-            Philosophus loquebatur; nec est eius auctoritas ad propositum nostrum, quia ipse non
-            loquebatur nisi de accioni naturali cum qua non coniugitur aliquis effectus
-            supernaturalis, quia ipse talem effectum non percipit. Vnde ipse intellexit quod agens
-            naturale, existens precise in <supplied>aliqua</supplied> disposicione communis cursus
-            nature, et passum tale necessario communicant in materia; et hoc est uerum. Set non est
-            ad propositum, quia accidencia in hostia non sunt agencia naturalia nec passa naturalia
-            secundum hunc modum. Set quamuis ista positio de quantitate euacuet istam difficultatem
-            acutam, adhuc stat alia difficultas, quia ponatur quod ignis corrumpat [P. f. 189va]
-            hostiam consecratam, tunc certum est quia illa quantitas [V. f. 173vb] recipit aliam
-            formam substancialem, quia postquam in situ hostie non est corpus Christi amplius, tunc
-            est ibi aliquod corpus generatum ab igne illo agente; et ita erit ibi una substancia
-            cuius materia est accidens; et sic iterum illa potest corrumpi et quantitas eius erit
-            materia alterius forme et sic in eternum. Et ita uidetur quod superfluit nunc ponere
-            aliquam materiam preter quantitatem, quia quantitas ita perfecte recipit formas
-            substanciales sicud materia prima. Et in eodem conposito nutrito ex hostiis, secundum
-            hanc posicionem est alia pars cuius materia est quantitas hostiarum, et alia cuius
-            materia est prima forma substancialis; que non sunt uera [O. f. 112vb], quia sic nunquam
-            sciremus ubi esset materia prima et ubi quantitas in rebus naturalibus; quod stultum est
-            dicere.</p>
-          <p>Hic respondeo quantum michi uidetur. Et dico quod hoc quod quantitas hostie consecrate
-            supplet uicem materie substancialis quoad quamcunque transmutacionem non est nisi dum
-            sub ipsa quantitate est corpus Christi sacramentaliter; et in primo instanti in quo
-            accidencia hostie consecrate sic transmutantur quod corpus Christi non sit cum illis
-            sacramentaliter in illo instanti. Dico quod creat Deus illam materiam que prius fuit in
-            hostia antequam consecracionem, ut res naturales habeant suas acciones naturales; ymmo
-            uerisimile est quod quantitas hostie consecrate habet uirtutem supplendi uicem materie
-            prime ex hoc quod corpus Christi integrum est sub ipsa tali modo essendi, scilicet
-            sacramentaliter; et ideo ammitit illam uirtutem in primo instanti in quo corpus Christi
-            desinit ibi esse. Vnde secundum hunc modum oportet dicere quod si Deus non crearet
-            materiam in illo instanti, non posset aliquid relictum in situ hostie pati ab alico, set
-            esset ibi quantitas abstracta et qualitates similiter.</p>
-          <p>Si secondo debet responderi ad argumentum, tenendo quod quantitas est alia res a
-            materia et a quacunque forma substanciali et a qualitate, set tenendo quod quelibet
-            forma materialis est quanta per se ipsam, tunc est difficilius soluere argumentum.
-            <quote>Doctor Subtilis, 4 libro, dist. 12, a. 3, q. 1</quote>, dicit quod sustinedo quantitatem non
-            distingui ab aliis formis, set quod qualitates in sacramento altaris sunt quante per se,
-            dicendum est quod non potest alico modo qualitas sacramenti transmutari ab agente
-            naturali, set hoc quod apparet apud sensum de alteracione qualitatum hostie consecrate
-            per accionem agencium naturalium est per accionem Dei, et non per accionem agentis
-            naturalis; ymmo Deus suplet loco agentis naturalis alteracionem successiuam qualitatum
-            absque subiecto alico, ne fidei meritum euacuaretur, si nos uideremus species ibi esse
-            intransmutabilis.</p>
-          <p>Et uidetur michi quod iste Doctor recte dicit, sustinendo quod non sit ibi quantitas
-            subiecta qualitatibus. Et sic negandum est illud quod assumitur [P. f. 189vb] in
-            argumento, scilicet quod in sacramento eukaristie remanent accidencia actiua et passiua
-            naturaliter, quia illa non sunt passiua nisi supernaturaliter in sacramento existencia,
-            set possunt agere naturaliter, etsi sint sine materia. Non tamen sunt in disposicione
-            communis cursus nature; et ideo non oportet quod communicent in materia cum passo, quia
-            auctoritas <ref>Philosophi, primo De generacione</ref> et <ref>tercio Phisicorum</ref> quod agens et passum
-            contradicant in materia intelligitur sicud si utrumque [V. f. 174ra] illorum sit
-            existens in disposicionibus communis cursus sue speciei; non enim sciuit Philosophus
-            alium cursum esse possibilem.</p>
-          <p>Audistis duas responsiones, eligatis quem uolueritis.</p>
-          <p>3. Tercium argumentum fuit hoc: <quote>primo De generacione dicit Philosophus</quote>, et cetera.
-            Respondeo sicud ad precedens argumentum: sustinendo quantitatem esse subiectam
-            qualitatibus; concedendum est qualitates hostie esse actiuis et passiuis; et non
-            sequitur quod sunt in materia substanciali; set hoc sequeretur si agerent et paterentur
-            secundum disposiciones communis cursus nature uel sue speciei; sic enim loquebatur
-            Philosophus. Si autem non ponatur quantitas subiecta qualitatibus eukaristie sacramenti,
-            tunc concedendum est quod iste qualitates sunt actiue, set non passiue ab agente
-            naturali, sicud intendit Philosophus, cum dicit quod, si calor sit separatus, ageret et
-            non pateretur, scilicet ab agente naturali; cum hoc tamen stat quod posset pati ab
-            agente supernaturali.</p>
-          <p>Set contra istud secundum istam responsionem, quando accidencia hostie consecrate
-            corrumpentur illa non corrumpentur nisi a Deo; set hoc est inpossibile, quia Deus
-            nunquam est causa non esse, neque tenendi ad non esse, sicud declarat <ref>Augustinus, 83
-            Questionum, q. 21</ref>.</p>
-          <p>Respondeo. Et dico quod illa accidencia hostie consecrate, quando sic corrumpuntur
-            successiue per generacionem qualitatum contrariarum, corrumpuntur mediate; et non
-            corrumpuntur inmediate a Deo, set per hoc quod Deus creat continue in situ hostie
-            consecrate qualitates contrarias naturalibus qualitatibus hostie;
-            <supplied>ergo</supplied> corrumpuntur qualitates hostie mediantibus qualitatibus de
-            nouo creatis mediate a Deo, et inmediate a qualitatibus nouiter creatis. Set Augustinus
-            intendit quod Deus non sit causa inmediata deficiendi uel tendendi ad non esse.</p>
-          <p>Set secundum istud adhuc uidetur quod qualitates hostie naturaliter paciantur, et tamen
-            sunt separate a materia, cum corrumpantur per accionem naturalem qualitatum creatarum de
-            nouo.</p>
-          <p>Respondeo. Et dico quod illa corrupcio est supernaturalis, quamuis agens inmediatum
-            agat naturaliter, quia accio agentis inmediati, scilicet qualitatis de nouo create a
-            Deo, pendet ab accione supernaturali sibi inmediate coniuncta per quam creatur; et ideo
-            corrupcio qualitatum hostie est supernaturalis. Et ita auctoritas Philosophi
-            intelligenda est sic quod calor separata ageret [P. f. 190ra], et non pateretur passione
-            [O. f. 113ra] mere naturali, scilicet que non dependeret ab accione supernaturali
-            coniuncta ei. Verius tamen dicendum est quod Deus corrumpit inmediate illas qualitates ;
-            set hoc est, quia suplet uicem generantis qualitates contrarias; nec in tali casu uult
-            Augustinus uel Anselmus hoc negare, set solum in cursu communi hoc negant.</p>
-          <p>4. Quartum argumentum fuit hoc: <quote>ex hostia consecrata per putrefaccionem</quote>, et cetera
-            usque in finem.</p>
-          <p>Respondeo sicud ad secundum argumentum. Et dico quod non potest uermis generari ex
-            hostia consecrata per accionem agentis naturalis precise; ymmo hostia esset
-            incorruptibile et intransmutabilis ab agente naturali, nisi Deus crearet qualitates
-            contrarias qualitatibus eius. Et sic per accionem Dei concedo quod ex hostia consecrata
-            potest generari uermis [V. f. 174rb], sic scilicet quod per creacionem talium qualitatum
-            quales agens putrefaciens [W. f. 132v] causaret in hostia, si haberet materiam, unde
-            corrumpuntur qualitates hostie, quousque corpus Christi desinat ibi esse. Et in illo
-            instanti creat Deus materiam, uel pocius recreat materiam que prefuit in hostia; et
-            inducitur tunc in istam materiam forma uermis. Nec uideo quomodo aliter potest ex hostia
-            consecrata generari uermis per putrefaccionem, siue ponatur quantitas subiecta uel
-            non.</p>
-          <p>5. Quintum argumentum fuit hoc: <quote>ponatur quod ignis agat in aliquam hostiam
-            consecratam</quote>, et cetera usque in finem. Respondeo sicud ad precedens, sustinendo quod
-            quantitas maneat alia a qualitatibus, concedo quod ille ignis generat calorem in situ
-            illius hostie, et similter suam formam substancialem; et concedo quod ille forme
-            recipiuntur in aliqua materia, communiter loquendo de materia, scilicet in quantitate.
-            Set non oportet quod recipiantur in aliqua materia substanciali nisi in illo instanti in
-            quo corpus Christi desinit esse ibi; tunc enim, sicud dixi, Deus recreat materiam que
-            prius fuit sub forma panis, et illa tunc fit subiectum quantitatis et forme
-            substancialis ignis et omnium qualitatum ibi existencium. Set sustinendo ibi non esse
-            quantitatem aliquam distinctam a qualitatibus, dico tunc, sicud dixi in aliis
-            argumentis, quod ignis non agit in hostiam nec potest agere in hostiam consecratam, set
-            Deus, in creando qualitates et formam ignis, supplet integre totam accionem quam ignis
-            ageret, si illic esset materia, et propter causam quam dixi, quia si hostia consecrata
-            appararet inpassibilis, tunc fides de isto sacramento esset euidens et minoris meriti
-            quam nunc est. Et ideo ne meritum fidei minuatur Deus supplet [P. f. 190rb] ibi accionem
-            agentis naturalis; quam accionem agens naturale non potest agere tunc, cum non habeat
-            ibi materiam in qua agat; que materia necessario requiritur in omni accione agentis
-            naturalis, ponendo quantitatem non distingui ab aliis predicamentis.</p>
-          <p>Set hic uidetur maior dubitacio , quia siue ponatur ibi quantitas siue non, ibi
-            causantur qualitates ignis et eius forma substancialis; et ita in hostia consecrata
-            esset alia substancia preter Christum et eius partes. Et confirmatur istud per hoc quod
-            forma ignis potest intendi et remitti sicud eius calor , et generatur partiter sicud
-            calor et secundum sentenciam <ref>Commentatoris, 3 De celo, comm. 67</ref>: ergo cum per accionem
-            ignis in hostiam, ponendo ibi esse quantitatem subiectam; causatur calor partiter,
-            sequitur quod pari modo ibi generetur in quantitate hostie tanquam in subiecto forma
-            substancialis ignis partiter , et eodem modo uidetur quod forma ignis generetur
-            partibiliter sicud calor, si Deus creet successiue calorem, quia tunc Deus supplet totam
-            accionem agentis naturalis quam ageret si ibi esset materia; set ignis iste si in hostia
-            consecrata esset materia, ageret suam formam substancialem sicud calorem; ergo sequitur
-            quod nunc continue generetur substancialis forma ignis simul cum calore; set hoc
-            consequens est inpossibile. Probatur: quia tunc esset continua intensio forme ignis ergo
-            ibi in forma ignis est uera successio; et per consequens ibi est remissio forme
-            contrarie substancialis. Consequens est falsum, cum nulla alia forma substancialis ibi
-            sit que sit passibilis ab igne. Et consequencia patet per hoc quod semper in intensione
-            forme substancialis et accidentalis (consequentis) illam, oportet quod generacio forme
-            substancialis sit prior, saltem secundum causam, quia forma substancialis est subiectum
-            sui proprii accidentis; ergo presupponitur illi et similiter quiscunque gradus eius
-            presupponitur gradui sibi naturali qualitatis (consequentis) illum. Et ita sequitur
-            ponendo quantitatem ibi abstractam, quod generacio forme ignis est prior causaurate quam
-            generacio caloris; et per consequens, cum generacio utriusque sit uere successiua,
-            sequitur quod illa generacio que prior est, sit per se successiua; et per consequens
-            forma secundum quam fit illa successio per se habeat istam formam contrariam sibi per se
-            secundum quam sit remissio proporcionis sue intensionis.</p>
-          <p>Set patet quid hic responderetur, quia, ponendo ibi non esse quantitatem subiectam,
-            tunc causantur ibi qualitates ignis approximati, et similiter sua forma substancialis,
-            et successiue; set successio tunc in forma substanciali non est per remissionem forme
-            sibi contrarie, cum nulla sibi [O. f. 112rb] contraria sit illic; set est ex sola
-            potencia Dei sine materia, et similiter sine contrario quod remittitur. Set per
-            intensionem [P. f. 190va] qualitatum ignis fit remissio in qualitatibus hostie; que
-            qualitates sunt quodammodo contrarie qualitatibus ignis. Set sustinendo quantitatem ibi
-            esse subiectam accioni ignis, dicitur quod non generatur ibi forma ignis substancialis,
-            quia quantitas non habet ibi uirtutem recipiendi formam aliquam substancialem, set solum
-            accidentalem; et ideo dicitur quod non generatur forma ignis ibi antequam corpus Christi
-            desinit ibi esse, et sit ibi materia que prefuit recreata a Deo; tunc enim causatur
-            forma ignis per accionem ignis in ista materia. Set hec responsio uidetur non posse
-            stare. Primo, quia secundum primam partem huius responsionis sequitur quod semper in
-            quacunque hostia consecrata post primum instans consecraccionis sit alia substancia
-            preter Christum et eius partes; quod tamen negat uniueraliter tota ecclesia. Et probatur
-            per hoc quod hostia est contraria secundum suas qualitates aeri continuanti ipsam; ergo
-            Deus agit in ipsam inmediate post instans consecracionis, causando ibi aeris qualitates;
-            et per consequens Deus tunc causat formam substancialem, quia Deus supplet, ut ponit
-            ista responsio, totam accionem quam agens naturale ageret, si in hostia esset materia;
-            set certum est quod aer ageret in hostiam, si haberet materiam, causando suas
-            qualitates, et similiter suam formam, quia non potest naturaliter causare qualitates
-            sine sua forma nec econtrario; ergo nunc Deus semper in quacunque hostia consecrata
-            causat continue alias substancias preter corpus Christi et eius partes; quod est
-            falsum.</p>
-          <p>Contra: secundum quod dicitur in ista responsione, scilicet quod, sustinendo ibi esse
-            quantitatem, non causatur forma ignis agentis in hostiam ante illud instans in quo forma
-            hostie sic corrumpitur quod Christus non amplius existat sub illa, et quod tunc in
-            materia quam Deus creat causatur primo forma ignis previo agentis, quia quero de forma
-            ignis tunc causata: aut creatur in illo instanti, aut in tempore postea. Si in illo
-            instanti: ergo forma ignis ab agenti naturali et in passo naturali generetur subito;
-            quod non uidetur esse possibile. Et preterea si subito generetur in illo instanti forma
-            ignis, tunc generatur in alico certo gradu; et per consequens generatur subito in summo
-            gradu, quia non est ibi tunc forma contraria; ergo si ignis causet suam formam tunc
-            subito in alico gradu, sequitur quod causaret illam in gradu summo , cum nichil ibi
-            magis inpediat gradum summum quam gradum remissum,.nisi aliquis diceret quod ibi sunt
-            qualitates contrarie qualitatibus ignis in summo et ignis in illo instanti producit
-            gradum proporcionatum suis qualitatibus tunc ibi existentibus et compacientibus [P. f.
-            190vb] secum alias qualitates contrarias forme ignis in summo [V. f. 174vb]; set non
-            potest producere gradum summum sue forme, quia qualitates contrarie illi forme non
-            possunt subito totaliter corrumpi. [W. f. 133r]</p>
-          <p>Contra istud, sicud prius fuit tactum: generacio forme ignis est prior caliditate quam
-            suarum qualitatum ; ergo contrarietas qualitatum ibi existencium ad formam ignis in
-            summo est contrarietas per accidens tantum, scilicet propter qualitates ignis in summo
-            que contrariantur illis qualitatibus ibi; ergo ignis in agendo suam formam in gradu
-            summo non habet ibi aliquam resistenciam sibi presuppositam per se, set tamen per
-            accidens; ergo producit per se suam formam in fine, et solum inpeditur a produccione
-            qualitatum suarum in summo.</p>
-          <p>Confirmatur istud sic: si in igne agente Deus adnichilaret in illo instanti omnes
-            qualitates, sola substancia sua remanente, tunc ignis ageret subito suam formam in
-            summo, quia non haberet inpediens, quia in illo nichil esset contrarium alicui existenti
-            in passo. Ergo pari modo ignis tunc agit , cum non sit aliquid per se sibi resistentes a
-            parte passi, set tantum per accidens; et illa resistencia per se; et per consequens non
-            est resistencia per accidens; non reducitur hic ad aliquam resistenciam per se; et per
-            consequens non est resistencia per accidens, cum omne per accidens reducatur ad aliquod
-            per se sicud, patet a Commentatore, 8 Phisicorum et 3 De anima.</p>
-          <p>Ideo uidetur michi esse aliter dicendum ad argumentum sic, scilicet, quod si ignis
-            approximetur hostie consecrate, non causat nisi qualitates suas, etsi sit ibi quantitas
-            subiecta accioni; nec eciam Deus causat similiter nisi qualitates ignis, ponendo ibi non
-            est quantitatem subiectam, ita quod nullo modo est ibi alia substancia preter Christum
-            et eius partes ante illud instans in quo corpus Christi desinit esse ibi. Set tunc
-            creatur materia a Deo que recipit formam ignis; set illa forma in illo instanti causatur
-            a Deo in illo gradu in quo fuisset per accionem ignis precedentem, si ibi fuisset
-            materia; et non causatur tunc ab igne, set ignis ulterius tunc inmediate post illud
-            instans causat successiue suam formam et suas qualitates. Vnde in illo instanti, sicud
-            Deus creat materiam ita creat in illa<supplied>m</supplied> substanciam , ymmo omnes formas substanciales
-            que prius, fuissent ibi, posito quod hostia non fuisset consecrata. Et ita dat ibi alias
-            formas substanciales que prius fuerunt ante consecracionem et in gradibus proporcionatis
-            qualitatibus in illo instanti ibbi existentibus. Et eciam si alia forma mixta foret
-            proporcionata illis qualitatibus in illo instanti in quo corpus Christi desinit in esse,
-            dico quod illam formam Deus in illo instanti similiter causaret quia Deus in illo
-            instanti supplet [P. f. 191ra] totum quod fuisset in illo instanti, si non fuisset [O.
-            f. 112va] consecracio facta. Sic patet ad istud argumentum.</p>
-          <p>6. Sextum argumentum fuit hoc: <quote>hostia recepta ab uno communicato digeretur tandem</quote>,: et
-            cetera usque in finem. Respondeo et dico quod hostia consecrata digeritur; intelligendo
-            per hostiam aggregatum ex accidentibus que fuerunt in pane. Et concedo quod in primo
-            instanti in quo hostia est corrupta est aliquod corpus naturale in situ illius hostie;
-            et concedo quod illud corpus naturale in illo instanti est generatum, set non ab agente
-            naturali, dico scilicet a membro corporis quod a solo Deo tunc simul creante materiam et
-            formam illius corporis. Et ideo non sequitur quod illa materia prefuit, scilicet
-            inmediate ante, quia de nouo creatur a Deo.</p>
-          <p>Set secundum istam responsionem sequitur quod naturaliter non posset homo nutiri ex
-            hostiis, quia naturali accione non potest aliqua hostia consecrata conuerti in naturam
-            corporis alendi.</p>
-          <p>Respondeo hic sicud respondet Doctor Subtilis; et dico quod nutiricio est duplex; una
-            que est restauracio partis deperdite, et sic [V. f. 174ra] accipiendo <mentioned>nutricionem</mentioned>
-            concedo quod ex hostiis consecratis non potest naturaliter aliquis homo nutriri. Et
-            istud uidetur <ref>Magister dicere, 4 libro, dist. 13</ref>, uersus finem, ubi dicit quod ab
-            animalibus brutis corpus Christi non sumitur. Si tamen in homine per accionem naturalem
-            posset hostia consecrata conuerti in hominis corporis, pari modo posset esse sic in
-            animalibus brutis, et posset corpus Christi sic sumi a brutis; quod negat Magister. Et
-            ideo uidetur quod Magister negat hoc, quia hostia consecrata non posset conuerti in
-            naturam animalis bruti; nec de facto conueritur in homine per accionem Dei, quia Deus
-            non uult istam conuertere in brutis sicut uult sicud conuertitur in homine. Alio modo
-            uocatur <mentioned>nutricio</mentioned> quecunque reductio membrorum animalis ad statum priorem secundum
-            qualitates; et sic potest homo nutriri ex hostiis consecratis; et similter animal
-            brutum, quia hostia consecrata habet accionem naturalem in membra hominis et animalis
-            bruti qualem accionem habet hostiam non consecratam. Et ideo simili modo potest hostia
-            consecrata reducere complexionem lapsam ad statum naturalem, saltem secundum qualitates
-            , sicud potest hostia non consecrata, licet non possit conuerti per accionem naturalem
-            in naturam membri animalis.</p>
-          <p>Set adhuc redit reliqua pars argumenti, scilicet quod, digesta hostia consecrata per
-            hunc modum, scilicet per accionem hominis uel bruti, sequitur quod situs in quo fuit
-            hostia illa, postea sit uacuus, uel quod corpus circumstans moueatur subito usque ad
-            medium [P. f. 191rb] illius situs. Et preterea, si talis hostia potest nutrire isto
-            secundo modo animal brutum, et hoc naturaliter, ergo animal brutum potest naturaliter
-            corrumpere hostiam illam, scilicet illas qualitates. Et per consequens post corrupcionem
-            illarum qualitatum erit corpus circumstans subito motum, sicud fuit argumentum, uel iste
-            situs remanebit uacuus, quod similiter falsum est. Hic respondeo et dico quod talis
-            hostia consecrata potest nutrire animal brutum et hominem secundo modo nutricionis,
-            scilicet reducendo conplexionem membrorum ad statum priorem, saltem aliqualiter. Set
-            dico quod nec in homine nec in animali bruto potest hostia digeri naturaliter, set solum
-            per accionem diuinam; nec ponendo dico quantitatem subiectam qualitatibus in hostia; set
-            de facto digeritur in homine per accionem Dei, et in animali bruto non, quia Deus non
-            uult. Et si homo uoluerit dicere quod hostia consecrata digeritur in animali bruto, ipse
-            potest dicere quod hoc fit precise per accionem Dei sicud in homine. Set tunc in fine
-            quando corpus Christi desinit ibi esse, in homine creat Deus formas substanciales
-            conuenientes qualitatibus ibi existentes, et similiter materiam; set in brutis non. Set
-            mutat aliquod corpus circumstans subito in illum situm ubi fuit prius hostia et ideo
-            animal brutum non sumit proprie corpus Christi. Set ponendo quantitatem subiectam
-            qualitatibus, dico quod in homine, et similiter in animali bruto, potest hostia digeri
-            naturaliter quousque corpus Christi desinat ibi esse; et tunc causabuntur per accionem
-            naturalem quousque ad illud instans accidencia naturali membri animalis agentis in
-            hostia. Et in illo instanti si Deus non uoluerit aliquod creare, cessabit accio
-            cuiuscumque agentis naturalis in perpetuum, et remanebunt in perpetuum accidencia
-            replencia situm sine subiecto substanciali; set uerisimilius est quod de facto [V. f.
-            174rb] in homine et eciam in brutis Deus creet materiam et formas conuenientes illis
-            accidentibus in illo instanti in quo [W. f. 133v] corpus Christi desinit ibi esse, et
-            quod sic animal brutum sicud homo nutritur ex hostiis consecratis. Et quod Magister
-            negat animal brutum corpus Christi sumere propter hoc quod nec ibi prodest nec obest
-            supernaturaliter. Set secundum utramque responsionem oportet concedere quod per accionem
-            naturalem precise non potest homo uel animal brutum nutriri proprie, scilicet ut per
-            accionem naturalem in hostias consecratas fiat in eis restauracio substancie
-            deperdite.</p>
-          <p>7. Et per hoc patet ad septimum argumentum quod fuit: <quote>homo potest nutriri ex hostiis
-            consecratis</quote>, et cetera usque in finem. Dictum est quod homo non potest nutriri ex
-            hostiis consecratis primo modo nutricionis nisi coniuncta accione Dei; set secundo modo
-            potest [P. f. 191 va] homo nutriri, et similiter animal brutum nutriri ex hostiis
-            consecratis, ponendo quantitatem subiectam qualitatibus. Nec sequitur ex hoc quod in
-            hostia consecrata sit alia materia passibilis, quia illa nutricio [O. f. 112vb] secundo
-            modo dicta non sit propter hoc quod hostia patitur, set propter hoc quod agit in membrum
-            cui approximatur.</p>
-          <p>8. Octauum argumentum fuit: <quote>hostia consecrata sicud patet ad sensum</quote>, et cetera usque
-            in finem. Respondeo sustinendo quod ibi non sit quantitas subiectiua qualitatibus,
-            concendendum est quod hostia consecrata frangitur ab agente naturali, et condensatur,
-            per conpressionem scilicet, et incuruatur.</p>
         </div>
       </div>
     </body>
